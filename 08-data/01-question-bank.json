@@ -1,0 +1,6242 @@
+[
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "家庭本月收入20,000、消费16,000，其本月储蓄是多少？",
+    "right": {
+      "text": "4,000",
+      "explanation": "20,000−16,000=4,000，描述期间流量。"
+    },
+    "wrong": [
+      {
+        "text": "20,000",
+        "explanation": "这是收入，尚未减消费。"
+      },
+      {
+        "text": "16,000",
+        "explanation": "这是消费。"
+      },
+      {
+        "text": "36,000",
+        "explanation": "储蓄不是收入与消费相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "投资者从另一持有人买入已发行股票，最准确的市场分类是？",
+    "right": {
+      "text": "二级市场",
+      "explanation": "已发行证券转手属于二级市场，款项通常给卖方。"
+    },
+    "wrong": [
+      {
+        "text": "一级市场",
+        "explanation": "一级市场涉及新发行证券。"
+      },
+      {
+        "text": "只能是货币市场",
+        "explanation": "普通股不因转手就变成短期债务。"
+      },
+      {
+        "text": "必定没有监管",
+        "explanation": "交易阶段不决定是否受监管。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "银行把小额存款需求与较大贷款需求连接，体现什么功能？",
+    "right": {
+      "text": "金融中介的规模转换",
+      "explanation": "汇集不同规模资金需求是中介的转换功能。"
+    },
+    "wrong": [
+      {
+        "text": "消灭信用风险",
+        "explanation": "贷款仍可能违约。"
+      },
+      {
+        "text": "使期限永远相同",
+        "explanation": "银行往往仍有期限错配。"
+      },
+      {
+        "text": "把存款变成银行普通股",
+        "explanation": "存款通常是银行负债。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "公司通过投行安排发行债券给投资者，这通常属于？",
+    "right": {
+      "text": "直接融资",
+      "explanation": "投资者直接持有企业债权，投行服务不改变基本分类。"
+    },
+    "wrong": [
+      {
+        "text": "只要有投行就是间接融资",
+        "explanation": "分类看资金请求权，不是有无服务机构。"
+      },
+      {
+        "text": "银行存款",
+        "explanation": "投资者持有发行人债权。"
+      },
+      {
+        "text": "二级市场融资",
+        "explanation": "题目是新发行。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "某短期债务原始期限6个月，通常归入哪一市场？",
+    "right": {
+      "text": "货币市场",
+      "explanation": "货币市场通常包括一年或以内原始期限工具。"
+    },
+    "wrong": [
+      {
+        "text": "仅因有利息就属股票市场",
+        "explanation": "股债权利不同。"
+      },
+      {
+        "text": "必须属长期资本市场",
+        "explanation": "通常按原始期限划分。"
+      },
+      {
+        "text": "必定没有二级交易",
+        "explanation": "短期工具也可转手。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "同一笔银行贷款，对借款公司与银行分别是什么？",
+    "right": {
+      "text": "公司负债，银行资产",
+      "explanation": "公司负还款义务，银行拥有合同收款权。"
+    },
+    "wrong": [
+      {
+        "text": "公司资产，银行负债",
+        "explanation": "这把贷款两方的请求权倒置。"
+      },
+      {
+        "text": "两边都是权益",
+        "explanation": "贷款不等于普通股权益。"
+      },
+      {
+        "text": "两边都没有记录",
+        "explanation": "合同权利义务须在相应账上反映。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "下列哪项最贴近货币作为计价单位的功能？",
+    "right": {
+      "text": "用港元标示每杯茶的价格",
+      "explanation": "价格以共同单位表达，方便比较。"
+    },
+    "wrong": [
+      {
+        "text": "保证十年后购买力不变",
+        "explanation": "价值储藏不保证免通胀。"
+      },
+      {
+        "text": "让所有股票成为现金",
+        "explanation": "有价值不等于货币。"
+      },
+      {
+        "text": "保证贷款无违约",
+        "explanation": "计价功能不保证履约。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "信用卡有50,000额度，能否因此说持卡人净财富增加50,000？",
+    "right": {
+      "text": "不能，额度是借款与支付安排",
+      "explanation": "借款能力不等于净财富。"
+    },
+    "wrong": [
+      {
+        "text": "能，额度全是个人净资产",
+        "explanation": "未借款额度不是已拥有净财富。"
+      },
+      {
+        "text": "能，因为银行承担所有还款",
+        "explanation": "持卡人仍承担合同义务。"
+      },
+      {
+        "text": "只有刷完才全变为权益",
+        "explanation": "刷卡通常形成负债，不是权益。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "茶价不变，炎热天气让愿买数量增加，主要描述？",
+    "right": {
+      "text": "需求曲线移动",
+      "explanation": "其他需求决定因素变化可使需求整体移动。"
+    },
+    "wrong": [
+      {
+        "text": "仅沿原需求曲线移动",
+        "explanation": "沿曲线变化通常由自身价格变动引起。"
+      },
+      {
+        "text": "供给必定减少同量",
+        "explanation": "题干未给出供给反应。"
+      },
+      {
+        "text": "原价格必定永久不变",
+        "explanation": "新需求可能影响价格，非保证。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "名义销售增10%，销量不变，最合理判断是？",
+    "right": {
+      "text": "可能主要来自价格上升",
+      "explanation": "数量不变时名义金额增长可来自售价变化。"
+    },
+    "wrong": [
+      {
+        "text": "实际产量必定增10%",
+        "explanation": "题干销量不变。"
+      },
+      {
+        "text": "购买力必定增10%",
+        "explanation": "还要考虑通胀等。"
+      },
+      {
+        "text": "利润必定增10%",
+        "explanation": "成本未给。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "政府增加公共支出，主要属于哪类政策？",
+    "right": {
+      "text": "财政政策",
+      "explanation": "支出与税收是财政政策的核心工具。"
+    },
+    "wrong": [
+      {
+        "text": "仅属货币政策",
+        "explanation": "财政支出与货币条件是不同工具。"
+      },
+      {
+        "text": "私人资产配置",
+        "explanation": "行动主体与目的不同。"
+      },
+      {
+        "text": "证券回购协议",
+        "explanation": "政府支出不是repo合同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "市场原预期盈利100万，实际90万，去年80万，哪项合理？",
+    "right": {
+      "text": "盈利同比增长仍可能低于预期",
+      "explanation": "与去年比增长12.5%，但比原预期低10%。"
+    },
+    "wrong": [
+      {
+        "text": "股价必定上涨",
+        "explanation": "股价还看预期与折现率。"
+      },
+      {
+        "text": "盈利同比下降",
+        "explanation": "90高于80。"
+      },
+      {
+        "text": "市场不可能关注预期",
+        "explanation": "价格通常包含前瞻判断。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "下列哪项最贴近IMF的功能？",
+    "right": {
+      "text": "关注国际货币与宏观稳定，提供相应支持",
+      "explanation": "按组织要解决的问题识别职能。"
+    },
+    "wrong": [
+      {
+        "text": "为每个家庭开日常存款户口",
+        "explanation": "IMF不是个人零售银行。"
+      },
+      {
+        "text": "管理所有国家股市撮合",
+        "explanation": "不是其业务。"
+      },
+      {
+        "text": "直接替各国制定全部国内银行法",
+        "explanation": "国际合作机构不等于各国立法机关。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "BIS与巴塞尔框架的正确理解是？",
+    "right": {
+      "text": "国际合作与标准须结合当地落实",
+      "explanation": "国际框架提供共同参考，不替代当地法制。"
+    },
+    "wrong": [
+      {
+        "text": "所有框架直接等于每国同一法律",
+        "explanation": "当地实施有制度过程。"
+      },
+      {
+        "text": "BIS保证所有银行存款全额兑付",
+        "explanation": "没有这种普遍保证。"
+      },
+      {
+        "text": "BIS是普通个人投资基金",
+        "explanation": "机构性质不同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "对流动性最准确的描述是？",
+    "right": {
+      "text": "能较快以较小成本和价格影响交易",
+      "explanation": "需要同时看速度、成本、深度和价格影响。"
+    },
+    "wrong": [
+      {
+        "text": "只要有最新成交价就可无限量同价卖出",
+        "explanation": "买盘深度有限。"
+      },
+      {
+        "text": "上市证券永远流动性充足",
+        "explanation": "上市不保证买盘。"
+      },
+      {
+        "text": "价格越高流动性必越好",
+        "explanation": "价格水平不能单独决定流动性。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "庄家报9.98/10.02，客户立即买入又卖回，报价不变且无费用，每单位损益？",
+    "right": {
+      "text": "亏0.04",
+      "explanation": "10.02买入、9.98卖出，净额−0.04。"
+    },
+    "wrong": [
+      {
+        "text": "赚0.04",
+        "explanation": "客户买ask卖bid，方向相反。"
+      },
+      {
+        "text": "不赚不亏",
+        "explanation": "忽略了买卖差价。"
+      },
+      {
+        "text": "亏10.02",
+        "explanation": "卖回仍收9.98，不是全额损失。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "银行资产价值足够，但今天提款所需现金不足，最直接是什么问题？",
+    "right": {
+      "text": "流动性问题",
+      "explanation": "付款时间错配与即时现金需求是流动性。"
+    },
+    "wrong": [
+      {
+        "text": "必定已经净资产为负",
+        "explanation": "缺现金不自动说明资产不足。"
+      },
+      {
+        "text": "票息率计算问题",
+        "explanation": "与描述不符。"
+      },
+      {
+        "text": "普通股增加问题",
+        "explanation": "没有发行股权事实。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "以下陈述何者正确？I.家庭可能借款；II.企业也可有资金盈余；III.每个部门永远固定为盈余或赤字。",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "盈余/赤字描述一定期间的资金状态。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "部门状态会随期间和个体变化。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "III的永远说法错误。"
+      },
+      {
+        "text": "仅I",
+        "explanation": "II也正确。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "数字技术提高市场连接速度，同时可能带来什么？",
+    "right": {
+      "text": "效率提升及更快风险传染",
+      "explanation": "便利与共同依赖、传播速度的风险可并存。"
+    },
+    "wrong": [
+      {
+        "text": "永久消除操作风险",
+        "explanation": "系统与网络仍会失效。"
+      },
+      {
+        "text": "使所有信息免费且正确",
+        "explanation": "数据质量及成本仍存在。"
+      },
+      {
+        "text": "取消所有市场规则",
+        "explanation": "技术不自动取消监管。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "chapter",
+    "question": "把危机案例用于学习，最有价值的做法是？",
+    "right": {
+      "text": "识别杠杆、错配与传染链并形成控制",
+      "explanation": "从因果机制与可执行控制学习，而非无条件类推。"
+    },
+    "wrong": [
+      {
+        "text": "背住某日指数便能预测所有危机",
+        "explanation": "历史点位不是普遍预测器。"
+      },
+      {
+        "text": "认为历史从不再有启示",
+        "explanation": "机制可用于压力分析。"
+      },
+      {
+        "text": "假定每次危机都会得到相同干预",
+        "explanation": "政策和情境不同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "银行资本与存款业务的稳健监管首先联想到？",
+    "right": {
+      "text": "HKMA",
+      "explanation": "金管局承担相应银行监管职能。"
+    },
+    "wrong": [
+      {
+        "text": "MPFA",
+        "explanation": "主要关注退休计划体系。"
+      },
+      {
+        "text": "IA",
+        "explanation": "主要关注保险。"
+      },
+      {
+        "text": "AFRC",
+        "explanation": "主要关注会计专业与审计。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "证券经纪的相关市场操守监管主要联想到？",
+    "right": {
+      "text": "SFC",
+      "explanation": "SFC监管香港证券期货及相关中介。"
+    },
+    "wrong": [
+      {
+        "text": "MPFA",
+        "explanation": "不是一般证券经纪市场监管的主要机构。"
+      },
+      {
+        "text": "IA",
+        "explanation": "保险监管不同。"
+      },
+      {
+        "text": "World Bank",
+        "explanation": "国际发展机构不负责香港证券经纪监管。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "强积金体系监管主要对应？",
+    "right": {
+      "text": "MPFA",
+      "explanation": "按业务对象识别MPFA。"
+    },
+    "wrong": [
+      {
+        "text": "HKEX",
+        "explanation": "市场营运不等于退休体系监管。"
+      },
+      {
+        "text": "BIS",
+        "explanation": "主要央行合作。"
+      },
+      {
+        "text": "AFRC",
+        "explanation": "会计审计监管不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "审计质量及会计专业监管主要对应？",
+    "right": {
+      "text": "AFRC",
+      "explanation": "AFRC职能与会计审计相关。"
+    },
+    "wrong": [
+      {
+        "text": "HKCC",
+        "explanation": "期货结算角色不同。"
+      },
+      {
+        "text": "IMF",
+        "explanation": "宏观国际货币职能不同。"
+      },
+      {
+        "text": "私人经纪行",
+        "explanation": "商业中介不是该法定监管者。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "港交所与证监会的关系，何者最准确？",
+    "right": {
+      "text": "营运及适用一线职责，与法定证券监管有分工",
+      "explanation": "要分清市场营运与法定监管。"
+    },
+    "wrong": [
+      {
+        "text": "两者完全是同一个机构",
+        "explanation": "法人和职责不同。"
+      },
+      {
+        "text": "港交所保证股价",
+        "explanation": "市场组织不保证价格。"
+      },
+      {
+        "text": "SFC为所有客户执行买卖单",
+        "explanation": "不是普通经纪业务。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "AI在银行监管语境通常表示什么？",
+    "right": {
+      "text": "authorized institution，认可机构",
+      "explanation": "缩写必须结合语境阅读。"
+    },
+    "wrong": [
+      {
+        "text": "任何人工智能程序",
+        "explanation": "此语境AI是特定监管缩写。"
+      },
+      {
+        "text": "所有上市公司",
+        "explanation": "上市公司不是一律银行认可机构。"
+      },
+      {
+        "text": "个人投资账户",
+        "explanation": "缩写指机构而非账户。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "2026年提出简化银行层级的草案，应怎样处理？",
+    "right": {
+      "text": "区分提案、生效与考试采用口径",
+      "explanation": "改革状态按生效文件及适用指南核对。"
+    },
+    "wrong": [
+      {
+        "text": "看到草案就认定已全部生效",
+        "explanation": "立法阶段和实施日期不同。"
+      },
+      {
+        "text": "永远只背旧称不查更新",
+        "explanation": "实际及考试口径可能变化。"
+      },
+      {
+        "text": "自行估计新存款门槛",
+        "explanation": "数字需有适用来源。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "投行按发行金额2%收费用，发行额1,000,000，无其他费，净融资？",
+    "right": {
+      "text": "980,000",
+      "explanation": "费用20,000，净款980,000。"
+    },
+    "wrong": [
+      {
+        "text": "1,020,000",
+        "explanation": "费用应扣减而非加到可用款。"
+      },
+      {
+        "text": "20,000",
+        "explanation": "这是费用不是净融资。"
+      },
+      {
+        "text": "1,000,000",
+        "explanation": "忽略了费用。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "本课1USD=7.75HKD对应哪一端？",
+    "right": {
+      "text": "港元强方",
+      "explanation": "每美元需港元较少，港元相对强。"
+    },
+    "wrong": [
+      {
+        "text": "港元弱方",
+        "explanation": "弱方为每美元需要更多港元的一端。"
+      },
+      {
+        "text": "港元与美元等值",
+        "explanation": "两货币单位不相同。"
+      },
+      {
+        "text": "任何个人固定柜台价",
+        "explanation": "兑换保证不是人人直接换钞的柜台承诺。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "弱方兑换保证操作中，金管局做什么？",
+    "right": {
+      "text": "买入港元、卖出美元",
+      "explanation": "弱方回收港元，银行体系总结余相应下降。"
+    },
+    "wrong": [
+      {
+        "text": "卖出港元、买入美元",
+        "explanation": "这是强方方向。"
+      },
+      {
+        "text": "向股民买入全部股票",
+        "explanation": "不是该兑换机制。"
+      },
+      {
+        "text": "给每名储户直接派现金",
+        "explanation": "机制对象及资金流不同。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "强方买美元卖港元，其他不变时总结余怎样？",
+    "right": {
+      "text": "增加",
+      "explanation": "从金管局付出港元的方向判断。"
+    },
+    "wrong": [
+      {
+        "text": "减少",
+        "explanation": "出售港元给银行通常增加其结算余额。"
+      },
+      {
+        "text": "必定等于公众存款总额",
+        "explanation": "总结余不是公众存款。"
+      },
+      {
+        "text": "自动变为零",
+        "explanation": "没有这种机制。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "总结余指什么？",
+    "right": {
+      "text": "银行在金管局结算账户余额总和",
+      "explanation": "先分清观察主体和账户。"
+    },
+    "wrong": [
+      {
+        "text": "所有香港家庭存款",
+        "explanation": "公众存款范围不同。"
+      },
+      {
+        "text": "全部外汇基金资产",
+        "explanation": "基金资产不等于银行结算余额。"
+      },
+      {
+        "text": "所有上市股票市值",
+        "explanation": "股票市值是另一指标。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "1USD由7.76HKD升至7.84HKD，表示？",
+    "right": {
+      "text": "港元相对美元转弱",
+      "explanation": "美元更贵，港元相对弱。"
+    },
+    "wrong": [
+      {
+        "text": "港元相对转强",
+        "explanation": "买同样美元需更多港元。"
+      },
+      {
+        "text": "美元相对港元贬值",
+        "explanation": "方向反了。"
+      },
+      {
+        "text": "两币购买力在所有国家不变",
+        "explanation": "双边汇率不决定所有价格。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "联系汇率下，何者合理？",
+    "right": {
+      "text": "港元利率受美元及本地流动性等影响",
+      "explanation": "货币制度影响利率环境，但具体利率并非恒等。"
+    },
+    "wrong": [
+      {
+        "text": "每项零售利率每秒与美国完全相同",
+        "explanation": "商业定价与期限等不同。"
+      },
+      {
+        "text": "可完全独立任意设所有货币条件",
+        "explanation": "有制度约束。"
+      },
+      {
+        "text": "股票价格也被固定",
+        "explanation": "货币联系不保证资产价格。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "政府增加基建支出，是何种主要工具？",
+    "right": {
+      "text": "财政政策",
+      "explanation": "政府支出属于财政工具。"
+    },
+    "wrong": [
+      {
+        "text": "证券掉期",
+        "explanation": "政府支出不是现金流交换合约。"
+      },
+      {
+        "text": "保证所有企业盈利",
+        "explanation": "政策效果还受其他因素影响。"
+      },
+      {
+        "text": "基金NAV计算",
+        "explanation": "概念无关。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "公司浮息债1,000,000，年率由4%到6%，完整一年其他不变，利息增加？",
+    "right": {
+      "text": "20,000",
+      "explanation": "1,000,000×(0.06−0.04)=20,000。"
+    },
+    "wrong": [
+      {
+        "text": "2,000",
+        "explanation": "2个百分点×100万是2万。"
+      },
+      {
+        "text": "200,000",
+        "explanation": "把2%错成20%。"
+      },
+      {
+        "text": "60,000",
+        "explanation": "这是新利息总额，不是增额。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "内地游客增加一定使茶饮公司利润同比例增加吗？",
+    "right": {
+      "text": "不一定，还要看客单价、成本和容量等",
+      "explanation": "写清收入和成本链再判断净结果。"
+    },
+    "wrong": [
+      {
+        "text": "一定，客流与利润总是同一比例",
+        "explanation": "忽略成本和销量限制。"
+      },
+      {
+        "text": "不可能影响收入",
+        "explanation": "游客可以带来销售。"
+      },
+      {
+        "text": "只影响外汇基金",
+        "explanation": "经营连接不仅是货币制度。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "采用电子支付最完整的判断是？",
+    "right": {
+      "text": "可提高效率，也带来系统依赖与网络风险",
+      "explanation": "科技改变成本和风险结构。"
+    },
+    "wrong": [
+      {
+        "text": "所有操作风险消失",
+        "explanation": "技术也可能失效。"
+      },
+      {
+        "text": "不再需要对账",
+        "explanation": "电子记录仍需验证。"
+      },
+      {
+        "text": "客户数据一定不会泄露",
+        "explanation": "安全并无无条件保证。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "以下何者正确？I.监管不保证收益；II.交易所与监管者有分工；III.获批产品不可能亏损。",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "制度准入与投资结果不能混为一谈。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "获批不等于保本。"
+      },
+      {
+        "text": "I及III",
+        "explanation": "III错误，II正确。"
+      },
+      {
+        "text": "仅II",
+        "explanation": "I也正确。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "chapter",
+    "question": "美国加息对公司影响应怎样分析？",
+    "right": {
+      "text": "分别检查融资、需求、汇率和预期等路径",
+      "explanation": "用条件链代替一条新闻直接得出价格结论。"
+    },
+    "wrong": [
+      {
+        "text": "只要加息所有公司必定破产",
+        "explanation": "无条件推广错误。"
+      },
+      {
+        "text": "借款合同类型无关",
+        "explanation": "固定浮动及重定价影响传导。"
+      },
+      {
+        "text": "只看一个政策标题就能算股价",
+        "explanation": "缺少现金流及估值条件。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "普通股最基本代表什么？",
+    "right": {
+      "text": "公司的剩余权益及相应权利",
+      "explanation": "普通股代表所有权相关的剩余利益。"
+    },
+    "wrong": [
+      {
+        "text": "保证固定还本付息",
+        "explanation": "通常是债务合同特征。"
+      },
+      {
+        "text": "银行存款",
+        "explanation": "股权不是存款。"
+      },
+      {
+        "text": "每名股东可无条件取走全部资产",
+        "explanation": "公司与个人主体不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "新股发行与投资者之间股票交易的区别是？",
+    "right": {
+      "text": "前者可为发行人筹资，后者款项通常付给卖方",
+      "explanation": "先认资金流向再分市场阶段。"
+    },
+    "wrong": [
+      {
+        "text": "两者每次都给公司同额现金",
+        "explanation": "二级市场交易通常不是发行人收款。"
+      },
+      {
+        "text": "后者没有价格风险",
+        "explanation": "交易价格仍可波动。"
+      },
+      {
+        "text": "前者必不涉及披露",
+        "explanation": "发行常有相应要求。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "每股20买入、收股息1、22卖出，无费，持有期总回报？",
+    "right": {
+      "text": "15%",
+      "explanation": "(22−20+1)/20=0.15。"
+    },
+    "wrong": [
+      {
+        "text": "10%",
+        "explanation": "只计了价格变化漏股息。"
+      },
+      {
+        "text": "5%",
+        "explanation": "只计股息。"
+      },
+      {
+        "text": "3%",
+        "explanation": "3元收益需除20而不是直接写百分比。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "4供1，旧价12、认购价8，简化理论除权价？",
+    "right": {
+      "text": "11.20",
+      "explanation": "(4×12+8)/5=11.20。"
+    },
+    "wrong": [
+      {
+        "text": "10.00",
+        "explanation": "不是两个价格简单平均，权重是4与1。"
+      },
+      {
+        "text": "12.00",
+        "explanation": "忽略新股与认购款。"
+      },
+      {
+        "text": "8.00",
+        "explanation": "认购价不等于全部股份除权价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "上题每旧股附带权利的理论价值？",
+    "right": {
+      "text": "0.80",
+      "explanation": "12−11.20=0.80，注意权利单位。"
+    },
+    "wrong": [
+      {
+        "text": "3.20",
+        "explanation": "这是取得一股新股所需4份权利的合计价值。"
+      },
+      {
+        "text": "4.00",
+        "explanation": "旧价与认购价差未按股数结构处理。"
+      },
+      {
+        "text": "11.20",
+        "explanation": "这是TERP。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "每2股送1股红股，旧价15，简化理论新价？",
+    "right": {
+      "text": "10",
+      "explanation": "2股旧值30，变3股，理论每股10。"
+    },
+    "wrong": [
+      {
+        "text": "15",
+        "explanation": "股数增加时不能假设理论总值同时无因增加。"
+      },
+      {
+        "text": "7.50",
+        "explanation": "不是每1股送1股。"
+      },
+      {
+        "text": "22.50",
+        "explanation": "这是错误放大股价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "红股与拆股的正确比较是？",
+    "right": {
+      "text": "股数都可能增，但机制与会计安排不同",
+      "explanation": "不能只看股价调整就把二者等同。"
+    },
+    "wrong": [
+      {
+        "text": "完全相同且所有法律处理一致",
+        "explanation": "结构与会计可不同。"
+      },
+      {
+        "text": "红股必为股东收到现金",
+        "explanation": "红股是股份分配。"
+      },
+      {
+        "text": "拆股总是让企业利润翻倍",
+        "explanation": "股份单位变化不产生经营利润。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "股价30、EPS2，市盈率？",
+    "right": {
+      "text": "15倍",
+      "explanation": "P/E=30/2=15。"
+    },
+    "wrong": [
+      {
+        "text": "60倍",
+        "explanation": "应除而非乘。"
+      },
+      {
+        "text": "6.67%",
+        "explanation": "这是盈利收益率的相反方向。"
+      },
+      {
+        "text": "28倍",
+        "explanation": "价格减盈利不是倍数。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "负盈利公司的P/E使用应怎样理解？",
+    "right": {
+      "text": "普通正盈利倍数比较可能失去意义",
+      "explanation": "盈利口径和可比性是估值前提。"
+    },
+    "wrong": [
+      {
+        "text": "负P/E一定最便宜",
+        "explanation": "亏损不能凭负倍数判便宜。"
+      },
+      {
+        "text": "所有公司必须同一倍数",
+        "explanation": "增长和风险可不同。"
+      },
+      {
+        "text": "EPS不影响P/E",
+        "explanation": "EPS正是分母。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "股价12、每股账面净资产8，P/B？",
+    "right": {
+      "text": "1.5倍",
+      "explanation": "12/8=1.5，不保证高于或低于内在价值。"
+    },
+    "wrong": [
+      {
+        "text": "0.67倍",
+        "explanation": "把分子分母反了。"
+      },
+      {
+        "text": "4倍",
+        "explanation": "相减不是倍数。"
+      },
+      {
+        "text": "96倍",
+        "explanation": "相乘不是P/B。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "明年股息2、要求回报10%、永续增长2%，简化股息模型价值？",
+    "right": {
+      "text": "25",
+      "explanation": "D1/(k−g)=2/0.08=25，须k>g且模型适用。"
+    },
+    "wrong": [
+      {
+        "text": "20",
+        "explanation": "忽略增长后分母应为0.08。"
+      },
+      {
+        "text": "16.67",
+        "explanation": "不应把增长加到要求回报。"
+      },
+      {
+        "text": "100",
+        "explanation": "不能只除增长率。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "固定增长股息模型中，D1应指？",
+    "right": {
+      "text": "下一期预期股息",
+      "explanation": "时点和单位必须匹配。"
+    },
+    "wrong": [
+      {
+        "text": "刚支付的历史股息必不调整",
+        "explanation": "若给D0要先按增长转D1。"
+      },
+      {
+        "text": "永远等于每股盈利",
+        "explanation": "股息分配和盈利不必相同。"
+      },
+      {
+        "text": "公司所有股东总股息",
+        "explanation": "公式按每股时须同单位。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "股价8，已发行适用股数1,000,000，市值？",
+    "right": {
+      "text": "8,000,000",
+      "explanation": "8×1,000,000=8,000,000。"
+    },
+    "wrong": [
+      {
+        "text": "1,000,008",
+        "explanation": "应乘股数而不是相加。"
+      },
+      {
+        "text": "125,000",
+        "explanation": "除法单位不合。"
+      },
+      {
+        "text": "等于公司银行现金",
+        "explanation": "市值不是现金余额。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "价格指数与总回报指数通常有何重要区别？",
+    "right": {
+      "text": "总回报指数考虑相应分配及再投资安排",
+      "explanation": "看指数编制方法和分配处理，不仅看点位。"
+    },
+    "wrong": [
+      {
+        "text": "价格指数保证不下跌",
+        "explanation": "指数也会下跌。"
+      },
+      {
+        "text": "两者对股息处理必完全相同",
+        "explanation": "分配处理是重要区别。"
+      },
+      {
+        "text": "总回报指数就是每只股票回报的简单相加",
+        "explanation": "权重及规则重要。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "市值加权指数中，一只大市值股通常意味着？",
+    "right": {
+      "text": "可能有较高指数权重，受编制规则约束",
+      "explanation": "权重方法决定贡献。"
+    },
+    "wrong": [
+      {
+        "text": "每股价格最高才一定权重最高",
+        "explanation": "市值还取决股数等。"
+      },
+      {
+        "text": "所有成分股权重必相同",
+        "explanation": "这不是等权指数。"
+      },
+      {
+        "text": "指数点数就是股票港元价格",
+        "explanation": "点位取决基期与除数。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "政府企业私有化通常涉及什么？",
+    "right": {
+      "text": "政府持有权益转移等所有权与融资安排",
+      "explanation": "结合政府企业股权转移的语境理解，不混同所有退市交易。"
+    },
+    "wrong": [
+      {
+        "text": "上市公司必定退市的唯一含义",
+        "explanation": "本节语境是政府企业所有权转移。"
+      },
+      {
+        "text": "企业债务自动全消失",
+        "explanation": "所有权变化不自动取消负债。"
+      },
+      {
+        "text": "所有原员工都变中央银行人员",
+        "explanation": "没有这种机制。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "交易成交、清算、交收的合理顺序/区分是？",
+    "right": {
+      "text": "确定交易后管理义务，再实际移转资产资金",
+      "explanation": "按功能理解不同环节。"
+    },
+    "wrong": [
+      {
+        "text": "只要成交资产资金必已全部完成转移",
+        "explanation": "成交与交收时点不同。"
+      },
+      {
+        "text": "托管人决定股票必涨",
+        "explanation": "保管不保证收益。"
+      },
+      {
+        "text": "结算所替客户选择所有股票",
+        "explanation": "不是其基本职责。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "T+2最应怎样解读？",
+    "right": {
+      "text": "特定参与者与结算机构的适用交收安排",
+      "explanation": "参与者层面与客户商业安排须分开。"
+    },
+    "wrong": [
+      {
+        "text": "所有客户一律可T+2才付款",
+        "explanation": "客户协议可要求预付。"
+      },
+      {
+        "text": "可以无资金无限交易",
+        "explanation": "商业与风险约束仍在。"
+      },
+      {
+        "text": "每一市场与产品一律相同",
+        "explanation": "市场产品安排不同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "买ETF最完整的风险认识是？",
+    "right": {
+      "text": "须看底层资产、结构、费用与交易价格",
+      "explanation": "产品名称不能替代条款和风险分析。"
+    },
+    "wrong": [
+      {
+        "text": "上市基金都保本",
+        "explanation": "上市不保证资本。"
+      },
+      {
+        "text": "ETF必定只持一只股票",
+        "explanation": "可跟踪多种资产或结构。"
+      },
+      {
+        "text": "基金市场价永远与NAV相同",
+        "explanation": "可能存在折溢价。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "chapter",
+    "question": "以下何者正确？I.股价与账面净资产可不同；II.低股价必然便宜；III.普通股息通常不固定。",
+    "right": {
+      "text": "仅I及III",
+      "explanation": "价格、价值和权益合同需分别理解。"
+    },
+    "wrong": [
+      {
+        "text": "仅II",
+        "explanation": "价格水平本身不能判断估值便宜。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "II错误。"
+      },
+      {
+        "text": "仅I",
+        "explanation": "III也正确。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "面值2,000、年票息率4%、半年付息，每期票息？",
+    "right": {
+      "text": "40",
+      "explanation": "2,000×0.04/2=40。"
+    },
+    "wrong": [
+      {
+        "text": "80",
+        "explanation": "80是全年票息，不是半年每期。"
+      },
+      {
+        "text": "20",
+        "explanation": "不应再多除一次2。"
+      },
+      {
+        "text": "由市场价决定而无法计算",
+        "explanation": "合同票息按面值和条款计算。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "固定息债买价950、面值1,000、年票息5%，每年合同票息？",
+    "right": {
+      "text": "50",
+      "explanation": "面值1,000×5%=50，不因市场买价变动。"
+    },
+    "wrong": [
+      {
+        "text": "47.50",
+        "explanation": "错误用买价作为票息基数。"
+      },
+      {
+        "text": "5",
+        "explanation": "5%需乘面值。"
+      },
+      {
+        "text": "950",
+        "explanation": "这是买价不是利息。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "零息债券不付中间票息，是否一定无收益？",
+    "right": {
+      "text": "否，折价买入与兑付额差异可形成收益",
+      "explanation": "收益不只来自中间票息，仍须发行人履约。"
+    },
+    "wrong": [
+      {
+        "text": "是，没票息就无任何收益",
+        "explanation": "漏掉价格与兑付差额。"
+      },
+      {
+        "text": "否，因为发行人必送普通股",
+        "explanation": "没有这种普遍条款。"
+      },
+      {
+        "text": "否，因为一定每日派息",
+        "explanation": "与零息合同矛盾。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "名义年利率8%、半年复利，有效年利率？",
+    "right": {
+      "text": "8.16%",
+      "explanation": "(1+0.08/2)²−1=0.0816。"
+    },
+    "wrong": [
+      {
+        "text": "8%",
+        "explanation": "漏掉半年利息再生利息。"
+      },
+      {
+        "text": "16%",
+        "explanation": "不是把名义年率乘2。"
+      },
+      {
+        "text": "4%",
+        "explanation": "这是半年每期率。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "名义回报6%、通胀4%，精确实际购买力回报约为？",
+    "right": {
+      "text": "1.9231%",
+      "explanation": "1.06/1.04−1≈1.9231%。"
+    },
+    "wrong": [
+      {
+        "text": "2%",
+        "explanation": "相减是近似，题问精确比例。"
+      },
+      {
+        "text": "10%",
+        "explanation": "不能相加。"
+      },
+      {
+        "text": "50%",
+        "explanation": "不是用利率差除通胀。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "可赎回债券的相关选择权通常在谁手中？",
+    "right": {
+      "text": "发行人，依合同条件提前赎回",
+      "explanation": "callable指发行人的适用赎回权；持有人回售是另一安排。"
+    },
+    "wrong": [
+      {
+        "text": "持有人可任意要求公司上市",
+        "explanation": "不是赎回选择权。"
+      },
+      {
+        "text": "所有经纪任意取消合同",
+        "explanation": "没有这种权利。"
+      },
+      {
+        "text": "评级机构决定每期股息",
+        "explanation": "角色与工具都不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "面值1,000、一年后兑付的零息债，要求收益率5%，价格约为？",
+    "right": {
+      "text": "952.38",
+      "explanation": "1,000/1.05=952.38。"
+    },
+    "wrong": [
+      {
+        "text": "1,050",
+        "explanation": "这是将本金向前复利，不是折现。"
+      },
+      {
+        "text": "950",
+        "explanation": "直接减面值5%不是精确折现。"
+      },
+      {
+        "text": "50",
+        "explanation": "只算了利息。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "面值1,000、年息5%、剩2年，年要求收益率6%，付息后价格约为？",
+    "right": {
+      "text": "981.67",
+      "explanation": "50/1.06+1,050/1.06²=981.67。"
+    },
+    "wrong": [
+      {
+        "text": "1,000",
+        "explanation": "票息率低于YTM时普通债在此假设下折价。"
+      },
+      {
+        "text": "1,018.86",
+        "explanation": "这是收益率4%的价格。"
+      },
+      {
+        "text": "94.34",
+        "explanation": "漏掉末期本金。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "固定现金流及其他条件不变，要求收益率上升，债价通常？",
+    "right": {
+      "text": "下降",
+      "explanation": "未来同额付款的现值减少。"
+    },
+    "wrong": [
+      {
+        "text": "上升",
+        "explanation": "折现分母变大。"
+      },
+      {
+        "text": "恒定等于面值",
+        "explanation": "仅特定条件下等于面值。"
+      },
+      {
+        "text": "票息率自动同幅上升",
+        "explanation": "固定合同票息不会自行变。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "年票息50、当前价格950，当期收益率约为？",
+    "right": {
+      "text": "5.2632%",
+      "explanation": "50/950≈0.052632，未计到期资本差价。"
+    },
+    "wrong": [
+      {
+        "text": "5%",
+        "explanation": "这是以1,000面值计算的票息率，不是题给价格分母。"
+      },
+      {
+        "text": "19倍",
+        "explanation": "这是倒数且非收益率。"
+      },
+      {
+        "text": "50%",
+        "explanation": "50/950不是0.5。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "YTM最准确的定义是？",
+    "right": {
+      "text": "使约定现金流现值等于价格的单一折现率",
+      "explanation": "它概括价格与合同现金流的时间关系。"
+    },
+    "wrong": [
+      {
+        "text": "任何持有人必实现的回报",
+        "explanation": "实际结果受出售、违约、再投资等影响。"
+      },
+      {
+        "text": "年票息除面值的另一个名称",
+        "explanation": "那是票息率。"
+      },
+      {
+        "text": "评级下降的概率",
+        "explanation": "YTM不是违约概率。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "比较收益率曲线，应优先保持什么可比？",
+    "right": {
+      "text": "币种、信用及其他条款等",
+      "explanation": "比较期限影响需要控制其他重要差异。"
+    },
+    "wrong": [
+      {
+        "text": "只要都写百分号即可",
+        "explanation": "风险币种不同会混入其他影响。"
+      },
+      {
+        "text": "价格绝对数相同",
+        "explanation": "曲线比较重点不是同价格。"
+      },
+      {
+        "text": "每只发行人必须同一天成立",
+        "explanation": "不是核心可比条件。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "倒挂收益率曲线通常指？",
+    "right": {
+      "text": "可比工具短期收益率高于长期",
+      "explanation": "形状描述期限与收益率关系，不是确定日期预测。"
+    },
+    "wrong": [
+      {
+        "text": "长期必定零违约",
+        "explanation": "曲线不保证信用。"
+      },
+      {
+        "text": "每只债价格相同",
+        "explanation": "不是曲线定义。"
+      },
+      {
+        "text": "所有股票价格将于明天下跌",
+        "explanation": "不能由曲线推出此确定预测。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "净价980，应计利息12，按本课定义全价为？",
+    "right": {
+      "text": "992",
+      "explanation": "dirty price=clean price+accrued interest。"
+    },
+    "wrong": [
+      {
+        "text": "968",
+        "explanation": "全价需加应计利息。"
+      },
+      {
+        "text": "980",
+        "explanation": "忽略应计利息。"
+      },
+      {
+        "text": "12",
+        "explanation": "仅是利息部分。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "repo融资今天收100,000，30天后还100,300，按/360年化率？",
+    "right": {
+      "text": "3.6%",
+      "explanation": "300/100,000×360/30=3.6%。"
+    },
+    "wrong": [
+      {
+        "text": "0.3%",
+        "explanation": "这是30天期间比率，未年化。"
+      },
+      {
+        "text": "36%",
+        "explanation": "年化倍数是12不是120。"
+      },
+      {
+        "text": "300%",
+        "explanation": "金额300不能直接当百分比。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "回购担保品市值102,000、融资100,000，差额主要是什么？",
+    "right": {
+      "text": "担保价值缓冲，利息另按回购款计算",
+      "explanation": "haircut的比例还要说明分母，不能把差额当利息。"
+    },
+    "wrong": [
+      {
+        "text": "必定就是利息2,000",
+        "explanation": "担保差额与融资利息不同。"
+      },
+      {
+        "text": "融资方无风险利润",
+        "explanation": "担保仍承担价格及其他风险。"
+      },
+      {
+        "text": "发行人股息",
+        "explanation": "不是股权分配。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "信用评级的正确理解是？",
+    "right": {
+      "text": "信用质量意见，不是履约保证",
+      "explanation": "信用分析还需现金流、条款及最新信息。"
+    },
+    "wrong": [
+      {
+        "text": "评级高必不违约",
+        "explanation": "评级不能保证未来。"
+      },
+      {
+        "text": "评级等于买入建议",
+        "explanation": "信用意见不同于投资适配建议。"
+      },
+      {
+        "text": "评级不变说明一切风险不变",
+        "explanation": "价格和信息可能先变。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "企业债收益率5%、可比参考债3%，简单利差为？",
+    "right": {
+      "text": "200bp",
+      "explanation": "5%−3%=2个百分点=200bp。"
+    },
+    "wrong": [
+      {
+        "text": "2bp",
+        "explanation": "2个百分点=200bp。"
+      },
+      {
+        "text": "50bp",
+        "explanation": "数值不符。"
+      },
+      {
+        "text": "必是2%的准确违约概率",
+        "explanation": "利差包含多种补偿。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "CMU与CCP概念怎样区分？",
+    "right": {
+      "text": "存管结算功能不自动等于为所有交易承担中央对手方风险",
+      "explanation": "先检查基础设施具体服务和法律安排。"
+    },
+    "wrong": [
+      {
+        "text": "名字含结算就必担保所有债务兑付",
+        "explanation": "功能与担保范围不同。"
+      },
+      {
+        "text": "CMU只负责普通股价格预测",
+        "explanation": "并非其基础功能。"
+      },
+      {
+        "text": "CCP等于发行债券的公司",
+        "explanation": "交易对手安排与发行人不同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "chapter",
+    "question": "DVP最直接降低什么风险？",
+    "right": {
+      "text": "一方交付资产却未收到对应付款的本金风险",
+      "explanation": "货银联动解决交收的一类核心风险。"
+    },
+    "wrong": [
+      {
+        "text": "债券发行人两年后违约风险全部消除",
+        "explanation": "DVP不替发行人偿债。"
+      },
+      {
+        "text": "市场利率风险全部消除",
+        "explanation": "交收与价格变化不同。"
+      },
+      {
+        "text": "所有操作风险归零",
+        "explanation": "系统流程仍可能失效。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "本课USD/HKD=7.80表示？",
+    "right": {
+      "text": "1USD=7.80HKD",
+      "explanation": "本资料先固定完整等式，单位优先。"
+    },
+    "wrong": [
+      {
+        "text": "1HKD=7.80USD",
+        "explanation": "把基础与报价方向反了。"
+      },
+      {
+        "text": "7.80是年回报率",
+        "explanation": "汇率不是利率。"
+      },
+      {
+        "text": "美元与港元数量相同",
+        "explanation": "交换比率不是1。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "银行USD/HKD报价7.79/7.81，客户买1,000USD需多少HKD？",
+    "right": {
+      "text": "7,810",
+      "explanation": "银行卖USD，用7.81×1,000。"
+    },
+    "wrong": [
+      {
+        "text": "7,790",
+        "explanation": "客户买美元用银行卖出价ask。"
+      },
+      {
+        "text": "7,800",
+        "explanation": "中间价不是题给可执行卖价。"
+      },
+      {
+        "text": "128.04",
+        "explanation": "这是倒数相关错误方向。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "1EUR=1.10USD，1USD=7.80HKD，1EUR等于多少HKD？",
+    "right": {
+      "text": "8.58",
+      "explanation": "1.10×7.80=8.58，USD单位相消。"
+    },
+    "wrong": [
+      {
+        "text": "7.09",
+        "explanation": "错误相除，单位不能正确相消。"
+      },
+      {
+        "text": "0.141",
+        "explanation": "错误倒数。"
+      },
+      {
+        "text": "8.90",
+        "explanation": "直接相加无经济含义。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "1USD=7.80HKD与1USD=7.20CNY，1CNY约为多少HKD？",
+    "right": {
+      "text": "1.083333",
+      "explanation": "7.80/7.20=1.083333HKD/CNY。"
+    },
+    "wrong": [
+      {
+        "text": "0.923077",
+        "explanation": "这是相反方向的倒数。"
+      },
+      {
+        "text": "56.16",
+        "explanation": "相同基础货币的报价不应直接相乘。"
+      },
+      {
+        "text": "0.60",
+        "explanation": "差额不是兑换比率。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "S=7.80、半年F=7.82，均每USD报价HKD，简单年化远期升水约？",
+    "right": {
+      "text": "0.5128%",
+      "explanation": "(7.82−7.80)/7.80×2=0.5128%。"
+    },
+    "wrong": [
+      {
+        "text": "2%",
+        "explanation": "0.02港元差价不是2%。"
+      },
+      {
+        "text": "0.2564%",
+        "explanation": "这是半年期间比率，未年化。"
+      },
+      {
+        "text": "−0.5128%",
+        "explanation": "F>S，对基础美元是升水不是贴水。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "远期汇率应怎样理解？",
+    "right": {
+      "text": "今天约定未来交换的合同价格",
+      "explanation": "远期价格涉及期限、利率等条件。"
+    },
+    "wrong": [
+      {
+        "text": "必等于未来实际即期价",
+        "explanation": "不是可靠预测保证。"
+      },
+      {
+        "text": "只由去年的股价决定",
+        "explanation": "决定因素不符。"
+      },
+      {
+        "text": "双方没有任何义务",
+        "explanation": "远期通常双方承担义务。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "未来需支付美元的进口商，其他不变美元升值通常怎样影响本币成本？",
+    "right": {
+      "text": "增加",
+      "explanation": "先确定未来需要买入哪一种货币。"
+    },
+    "wrong": [
+      {
+        "text": "减少",
+        "explanation": "买同样美元需更多本币。"
+      },
+      {
+        "text": "永远不影响任何币种",
+        "explanation": "取决报价及实际敞口。"
+      },
+      {
+        "text": "使美元付款数量自动减少",
+        "explanation": "合同数量不自动变。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "期货保证金最准确的理解是？",
+    "right": {
+      "text": "支持履约的资金，不等于全部名义规模",
+      "explanation": "杠杆和逐日损益意味着现金需求可很大。"
+    },
+    "wrong": [
+      {
+        "text": "买断全部标的的总价",
+        "explanation": "保证金制度与全额购买不同。"
+      },
+      {
+        "text": "最大可能损失的普遍上限",
+        "explanation": "损失和追缴可能超过初始保证金。"
+      },
+      {
+        "text": "给交易所的无风险储蓄利息",
+        "explanation": "不是该定义。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "买call与卖call的基本关系是？",
+    "right": {
+      "text": "买方有选择权，卖方承担相应履约义务",
+      "explanation": "先分权利种类，再分买卖方向。"
+    },
+    "wrong": [
+      {
+        "text": "双方都有选择权且均无义务",
+        "explanation": "卖方有被行权义务。"
+      },
+      {
+        "text": "双方都只可能赚权利金",
+        "explanation": "买方通常支付权利金。"
+      },
+      {
+        "text": "call只能用于股票且不可能到期",
+        "explanation": "标的和期限有不同产品。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "买call，K=50、权利金3，到期S=52，净利润每单位？",
+    "right": {
+      "text": "−1",
+      "explanation": "max(52−50,0)−3=−1。"
+    },
+    "wrong": [
+      {
+        "text": "2",
+        "explanation": "这是到期支付，尚未扣权利金。"
+      },
+      {
+        "text": "5",
+        "explanation": "不应加权利金。"
+      },
+      {
+        "text": "−3",
+        "explanation": "价内支付2，损失不是全部3。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "买put，K=50、权利金2，到期S=40，净利润每单位？",
+    "right": {
+      "text": "8",
+      "explanation": "max(50−40,0)−2=8。"
+    },
+    "wrong": [
+      {
+        "text": "10",
+        "explanation": "漏扣权利金2。"
+      },
+      {
+        "text": "−12",
+        "explanation": "把买卖方向反了。"
+      },
+      {
+        "text": "0",
+        "explanation": "标的低于行使价时put有支付。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "裸卖call的简化到期风险为何可能无上限？",
+    "right": {
+      "text": "标的价格理论可无限上升，而卖方承担差额",
+      "explanation": "裸仓卖call支付为−max(S−K,0)，升幅可很大。"
+    },
+    "wrong": [
+      {
+        "text": "卖方付出的权利金无限",
+        "explanation": "卖方通常收权利金。"
+      },
+      {
+        "text": "所有期权买方都必须无限补款",
+        "explanation": "买入普通期权通常限损于成本。"
+      },
+      {
+        "text": "行使价会自动随市价上涨",
+        "explanation": "合同K不自动调整来免除义务。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "普通同币种利率掉期通常交换什么？",
+    "right": {
+      "text": "按名义本金计算的约定利息现金流",
+      "explanation": "具体条款决定现金流，不能把名义额当作每期实付本金。"
+    },
+    "wrong": [
+      {
+        "text": "每次都交换两倍普通股",
+        "explanation": "不是利率掉期。"
+      },
+      {
+        "text": "必须在每期交换全部本金",
+        "explanation": "通常名义本金用于计算，不这样交换。"
+      },
+      {
+        "text": "永远没有对手方风险",
+        "explanation": "仍可能履约失败。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "期货100买入，103卖出，每点50，2份多头，忽略费损益？",
+    "right": {
+      "text": "300",
+      "explanation": "(103−100)×50×2=300。"
+    },
+    "wrong": [
+      {
+        "text": "150",
+        "explanation": "只算1份。"
+      },
+      {
+        "text": "−300",
+        "explanation": "这是空头方向。"
+      },
+      {
+        "text": "10,300",
+        "explanation": "不是价格乘某个随意本金。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "对冲后发现合约亏损，能否单凭此认定失败？",
+    "right": {
+      "text": "不能，要合并原始业务与对冲合约",
+      "explanation": "观察总敞口、预算和残余风险。"
+    },
+    "wrong": [
+      {
+        "text": "能，每条腿必须盈利",
+        "explanation": "对冲目标通常是降低整体波动。"
+      },
+      {
+        "text": "能，只要有权利金就算失败",
+        "explanation": "权利金可为取得保险式保护的成本。"
+      },
+      {
+        "text": "不能，因为对冲永远赚钱",
+        "explanation": "对冲不保证盈利。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "基差风险最贴近什么？",
+    "right": {
+      "text": "对冲工具与原风险变化不一致",
+      "explanation": "数量、期限、标的等不匹配都可能产生残余风险。"
+    },
+    "wrong": [
+      {
+        "text": "所有现金都是假币",
+        "explanation": "不是该定义。"
+      },
+      {
+        "text": "期权一定被强制行权",
+        "explanation": "基差不是行权规定。"
+      },
+      {
+        "text": "保证金金额等于全部名义额",
+        "explanation": "与基差不同。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "香港上市权证/牛熊证应重点注意？",
+    "right": {
+      "text": "条款、发行人信用、杠杆及终止等风险",
+      "explanation": "证券市场交易不消除衍生结构与信用风险。"
+    },
+    "wrong": [
+      {
+        "text": "上市就等于交易所保本",
+        "explanation": "上市不保证兑付。"
+      },
+      {
+        "text": "所有牛熊证收回后必有同额本金",
+        "explanation": "剩余价值依类别条款且可能很少或零。"
+      },
+      {
+        "text": "不需要看兑换比率",
+        "explanation": "比率直接影响支付。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "权证10份对应1股，K=50、到期参考价56，每份到期支付忽略费？",
+    "right": {
+      "text": "0.60",
+      "explanation": "(56−50)/10=0.60。"
+    },
+    "wrong": [
+      {
+        "text": "6",
+        "explanation": "漏除10的兑换比率。"
+      },
+      {
+        "text": "60",
+        "explanation": "错误乘比率。"
+      },
+      {
+        "text": "5",
+        "explanation": "使用了无关数字。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "CCP与保证金安排的合理理解是？",
+    "right": {
+      "text": "管理部分对手及结算风险，仍留市场等风险",
+      "explanation": "风险被管理和重新分配，而非全归零。"
+    },
+    "wrong": [
+      {
+        "text": "消除所有投资损失",
+        "explanation": "价格风险仍存在。"
+      },
+      {
+        "text": "保证持仓永不追加现金",
+        "explanation": "保证金可能追缴。"
+      },
+      {
+        "text": "代客户确定最赚钱策略",
+        "explanation": "不是中央对手方职责。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "chapter",
+    "question": "FRA期间末利差2,500，期间开始结算且利率5%、T=0.25，差额约？",
+    "right": {
+      "text": "2,469.14",
+      "explanation": "2,500/(1+0.05×0.25)=2,469.14。"
+    },
+    "wrong": [
+      {
+        "text": "2,500",
+        "explanation": "期初金额须把期间末差额折回。"
+      },
+      {
+        "text": "2,531.25",
+        "explanation": "错误向前复利。"
+      },
+      {
+        "text": "1,000,000",
+        "explanation": "名义本金不是利差结算款。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "客户违约，20,000货款只收回8,000，最直接是什么风险？",
+    "right": {
+      "text": "信用风险",
+      "explanation": "对方未付12,000，属于合同履约问题。"
+    },
+    "wrong": [
+      {
+        "text": "只有市场利率风险",
+        "explanation": "直接触发是对方不履约。"
+      },
+      {
+        "text": "只有模型风险",
+        "explanation": "题干没说明模型错误。"
+      },
+      {
+        "text": "必定是股权稀释",
+        "explanation": "没有新增股份。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "股票因市场价格下跌造成价值损失，主要属于？",
+    "right": {
+      "text": "市场风险",
+      "explanation": "按直接损失路径分类。"
+    },
+    "wrong": [
+      {
+        "text": "仅法律风险",
+        "explanation": "题干触发是价格变动。"
+      },
+      {
+        "text": "只要未卖出便没有经济风险",
+        "explanation": "市场价值仍受影响。"
+      },
+      {
+        "text": "必定是结算失败",
+        "explanation": "没有描述交收失败。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "急需卖债，但买盘很少且报价很低，最直接是？",
+    "right": {
+      "text": "市场流动性风险",
+      "explanation": "卖出速度与价格影响体现市场流动性。"
+    },
+    "wrong": [
+      {
+        "text": "融资流动性风险的唯一定义",
+        "explanation": "融资流动性重点是筹资付款，题干直接是变现困难。"
+      },
+      {
+        "text": "债券票息率改变",
+        "explanation": "买盘少不自动改合同票息。"
+      },
+      {
+        "text": "保证没有信用风险",
+        "explanation": "其他风险可能并存。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "有大量长期资产，但明天付款筹不到现金，最直接是？",
+    "right": {
+      "text": "融资流动性风险",
+      "explanation": "先画付款时间与可用现金。"
+    },
+    "wrong": [
+      {
+        "text": "净资产一定为负",
+        "explanation": "资产足够也可能不及时变现。"
+      },
+      {
+        "text": "没有任何风险",
+        "explanation": "到期付款不足有直接后果。"
+      },
+      {
+        "text": "股息率计算风险",
+        "explanation": "不是该问题。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "员工把1,000误输成10,000并成交，主要属于？",
+    "right": {
+      "text": "操作风险",
+      "explanation": "人员与流程失效会造成操作损失。"
+    },
+    "wrong": [
+      {
+        "text": "仅市场预期风险",
+        "explanation": "直接原因是流程人员错误。"
+      },
+      {
+        "text": "只能叫利率风险",
+        "explanation": "利率未变。"
+      },
+      {
+        "text": "必定是套利盈利",
+        "explanation": "错误下单不是无风险套利。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "对冲工具与采购标的变化不一致，最直接属于？",
+    "right": {
+      "text": "基差风险",
+      "explanation": "标的、时间或价格变化不匹配导致对冲不完整。"
+    },
+    "wrong": [
+      {
+        "text": "票息再投资风险",
+        "explanation": "对冲不匹配不是票息再投资。"
+      },
+      {
+        "text": "纯粹会计利润",
+        "explanation": "是经济风险差异。"
+      },
+      {
+        "text": "无风险状态",
+        "explanation": "残余风险仍在。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "已付一种货币，却未收到对方应付另一种货币，主要是什么？",
+    "right": {
+      "text": "结算风险",
+      "explanation": "交收期间一边已付出本金，另一边未完成。"
+    },
+    "wrong": [
+      {
+        "text": "保证金收益",
+        "explanation": "这不是收益定义。"
+      },
+      {
+        "text": "只有股权风险",
+        "explanation": "交易是货币交换。"
+      },
+      {
+        "text": "货币时间价值的必然利润",
+        "explanation": "未收到款是履约风险。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "systematic risk与systemic risk应怎样区分？",
+    "right": {
+      "text": "前者强调共同市场因素，后者强调体系连锁扰动",
+      "explanation": "中文可能混用，结合英文与触发链识别。"
+    },
+    "wrong": [
+      {
+        "text": "英文完全同义无需区分",
+        "explanation": "概念侧重点不同。"
+      },
+      {
+        "text": "前者仅指输错数字",
+        "explanation": "那更接近操作风险。"
+      },
+      {
+        "text": "后者保证单一机构绝不破产",
+        "explanation": "体系风险不是保证。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "风险管理流程最合理的是？",
+    "right": {
+      "text": "识别、衡量、管理、监察并循环更新",
+      "explanation": "四步相互衔接并随条件改变复核。"
+    },
+    "wrong": [
+      {
+        "text": "只衡量不行动",
+        "explanation": "指标须连接措施。"
+      },
+      {
+        "text": "先承诺零风险再随意交易",
+        "explanation": "不可执行。"
+      },
+      {
+        "text": "年末才看全部超限",
+        "explanation": "可能无法及时处置。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "写一条有效限额，至少还应包含什么？",
+    "right": {
+      "text": "负责人、监测频率与超限行动",
+      "explanation": "制度要把数字转成可执行流程。"
+    },
+    "wrong": [
+      {
+        "text": "只写风险很高",
+        "explanation": "无法执行。"
+      },
+      {
+        "text": "保证再无损失",
+        "explanation": "限额不是结果保证。"
+      },
+      {
+        "text": "不需要检查实际敞口",
+        "explanation": "没有监察就无法知道是否越线。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "修正久期4，收益率升50bp，近似价格变动？",
+    "right": {
+      "text": "−2%",
+      "explanation": "−4×0.005=−0.02，约跌2%，限小变动等条件。"
+    },
+    "wrong": [
+      {
+        "text": "−200%",
+        "explanation": "50bp要换成0.005。"
+      },
+      {
+        "text": "+2%",
+        "explanation": "固定现金流价格方向相反。"
+      },
+      {
+        "text": "−0.02%",
+        "explanation": "百分点与小数转换错误。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "一日99%VaR=100,000，最准确理解是？",
+    "right": {
+      "text": "模型下约1%的日子损失超过该阈值",
+      "explanation": "须同时说明持有期、置信度和模型假设。"
+    },
+    "wrong": [
+      {
+        "text": "任何一天最多亏100,000",
+        "explanation": "尾部可更大且模型可能不准。"
+      },
+      {
+        "text": "每天保证赚100,000",
+        "explanation": "VaR不是收益承诺。"
+      },
+      {
+        "text": "未来恰好每100天仅一天亏损",
+        "explanation": "分位概率不保证固定频次及亏损次数。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "压力测试最主要补充什么？",
+    "right": {
+      "text": "严重情景下的损失、现金与可持续运作",
+      "explanation": "罕见严重情景可能被正常期模型低估。"
+    },
+    "wrong": [
+      {
+        "text": "保证压力情景不会发生",
+        "explanation": "它是检查不是消除事件。"
+      },
+      {
+        "text": "只看最好年度利润",
+        "explanation": "与压力分析目的不同。"
+      },
+      {
+        "text": "取代全部独立监控",
+        "explanation": "仍须日常控制。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "分散投资可以怎样作用？",
+    "right": {
+      "text": "减少部分个别风险，共同市场风险仍可存在",
+      "explanation": "看经济因素和共同变化，不只看持仓数量。"
+    },
+    "wrong": [
+      {
+        "text": "股票数量够多就保证盈利",
+        "explanation": "相关性与市场共同风险仍在。"
+      },
+      {
+        "text": "只要名称不同相关性一定为零",
+        "explanation": "名称不是统计关系。"
+      },
+      {
+        "text": "危机相关性必定不变",
+        "explanation": "极端期可能共同抛售。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "止损指令的正确理解是？",
+    "right": {
+      "text": "可管理持仓，但跳空和无买盘时未必按设定价成交",
+      "explanation": "工具有效性有市场与机制条件。"
+    },
+    "wrong": [
+      {
+        "text": "等于保证最大亏损固定",
+        "explanation": "成交条件可能不满足。"
+      },
+      {
+        "text": "能消除发行人信用风险",
+        "explanation": "止损不是信用保证。"
+      },
+      {
+        "text": "从不涉及执行风险",
+        "explanation": "交易执行正有约束。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "前台开仓、后台确认与对账分开，主要帮助什么？",
+    "right": {
+      "text": "降低隐藏交易和记录失误的风险",
+      "explanation": "职责分离和独立核对是控制机制。"
+    },
+    "wrong": [
+      {
+        "text": "保证市场永不下跌",
+        "explanation": "控制流程不控制市场价格。"
+      },
+      {
+        "text": "替代董事会全部责任",
+        "explanation": "治理责任不能自动转移。"
+      },
+      {
+        "text": "取消所有客户资金记录",
+        "explanation": "反而需要独立记录。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "机构资产100、负债97，资产损失2，权益剩多少？",
+    "right": {
+      "text": "1",
+      "explanation": "资产变98，负债97，权益1；原权益3损失2/3。"
+    },
+    "wrong": [
+      {
+        "text": "95",
+        "explanation": "误用资产减损后不扣负债。"
+      },
+      {
+        "text": "3",
+        "explanation": "忽略损失由权益吸收。"
+      },
+      {
+        "text": "2",
+        "explanation": "这是损失金额，不是剩余权益。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "把市场风险对冲给交易对手后，应继续检查什么？",
+    "right": {
+      "text": "对手方、基差、抵押品与现金需求等",
+      "explanation": "管理往往改变风险结构，并留下残余风险。"
+    },
+    "wrong": [
+      {
+        "text": "什么都不用看",
+        "explanation": "风险不是全部消失。"
+      },
+      {
+        "text": "只看合约名称",
+        "explanation": "名称不足判断条款。"
+      },
+      {
+        "text": "保证金必不再追加",
+        "explanation": "担保与市场变化可能需补款。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "危机中同时抛售资产、价格跌、更多追缴，这是什么机制？",
+    "right": {
+      "text": "价格与融资压力的反馈放大",
+      "explanation": "杠杆、流动性和共同资产可形成连锁。"
+    },
+    "wrong": [
+      {
+        "text": "证明分散永远完全无用",
+        "explanation": "分散有效性有条件，不能一概否定。"
+      },
+      {
+        "text": "说明所有损失都是会计虚构",
+        "explanation": "现金追缴与交易损失可真实发生。"
+      },
+      {
+        "text": "证明单家机构与体系互不相关",
+        "explanation": "恰显示联系。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 6,
+    "kind": "chapter",
+    "question": "以下何者正确？I.评级不保证还款；II.VaR不表示最大损失；III.正净资产保证明日现金足够。",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "各风险指标回答不同问题，不能越过定义推广。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "净值与付款时间不同。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "III错误。"
+      },
+      {
+        "text": "仅I",
+        "explanation": "II也正确。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "企业融资首先应明确什么？",
+    "right": {
+      "text": "用途、金额、日期和坏情景现金需求",
+      "explanation": "工具选择服务于资金需要与约束。"
+    },
+    "wrong": [
+      {
+        "text": "先选佣金最高的产品",
+        "explanation": "应从企业需要分析。"
+      },
+      {
+        "text": "只看去年股价",
+        "explanation": "不足确定融资结构。"
+      },
+      {
+        "text": "保证所有扩张都能盈利",
+        "explanation": "融资分析不能保证经营。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "企业三月收到150,000，但一月先付300,000、期初现金100,000，一月未融资缺口？",
+    "right": {
+      "text": "200,000",
+      "explanation": "一月现金100,000−300,000=−200,000。"
+    },
+    "wrong": [
+      {
+        "text": "50,000",
+        "explanation": "这是忽略中间时间的期末净缺口。"
+      },
+      {
+        "text": "300,000",
+        "explanation": "未扣期初现金。"
+      },
+      {
+        "text": "0",
+        "explanation": "未来收款不能自动提前付款。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "权益融资的成本应怎样理解？",
+    "right": {
+      "text": "没有普通债务式固定还本不等于没有要求回报",
+      "explanation": "须看要求回报、控制权和发行等成本。"
+    },
+    "wrong": [
+      {
+        "text": "没有利息所以完全免费",
+        "explanation": "股东承担风险并要求回报。"
+      },
+      {
+        "text": "必定每月还全部本金",
+        "explanation": "普通股不具该固定义务。"
+      },
+      {
+        "text": "永不稀释控制权",
+        "explanation": "新增股权可能稀释。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "用短期借款持续滚动支持长期项目，重点增加什么？",
+    "right": {
+      "text": "再融资风险",
+      "explanation": "即使项目长期盈利，短债可能无法续借。"
+    },
+    "wrong": [
+      {
+        "text": "保证长期利率永远锁定",
+        "explanation": "短期滚动要重定价与续借。"
+      },
+      {
+        "text": "消除所有付款义务",
+        "explanation": "债务仍需偿还。"
+      },
+      {
+        "text": "普通股股数自动增加",
+        "explanation": "贷款不是自动发股。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "今天投100,000，一年及两年末各收60,000，折现率10%，NPV约？",
+    "right": {
+      "text": "4,132.23",
+      "explanation": "60,000/1.1+60,000/1.1²−100,000=4,132.23，假设可能错。"
+    },
+    "wrong": [
+      {
+        "text": "20,000",
+        "explanation": "忽略现金流时间价值。"
+      },
+      {
+        "text": "104,132.23",
+        "explanation": "这是流入现值，尚未扣初始投入。"
+      },
+      {
+        "text": "−100,000",
+        "explanation": "漏掉未来流入。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "尽职调查最准确的说法是？",
+    "right": {
+      "text": "获取和验证重要信息，仍有范围与判断限制",
+      "explanation": "程序增加信息质量，但不等于结果保证。"
+    },
+    "wrong": [
+      {
+        "text": "完成报告即保证零遗漏",
+        "explanation": "调查不能保证所有未知消失。"
+      },
+      {
+        "text": "只看最高售价",
+        "explanation": "不是完整审查。"
+      },
+      {
+        "text": "替代全部法律与会计工作",
+        "explanation": "各专业角色仍需协作。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "借债收购与发股支付的取舍是？",
+    "right": {
+      "text": "前者增加债务压力，后者可能稀释权益",
+      "explanation": "从付款、控制权和坏情景分析结构。"
+    },
+    "wrong": [
+      {
+        "text": "两者都绝无成本",
+        "explanation": "资金有成本和风险。"
+      },
+      {
+        "text": "发股必定无需披露",
+        "explanation": "依交易规则有义务。"
+      },
+      {
+        "text": "借债不会影响未来现金",
+        "explanation": "利息本金直接影响现金。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "资产管理流程的起点应是？",
+    "right": {
+      "text": "了解目标、负债和限制，形成授权",
+      "explanation": "配置与证券选择应服从客户/资金目标。"
+    },
+    "wrong": [
+      {
+        "text": "先买近期涨最多的资产",
+        "explanation": "未经目标与风险分析。"
+      },
+      {
+        "text": "保证下月回报等于去年",
+        "explanation": "历史不保证。"
+      },
+      {
+        "text": "把客户资产归经理私人使用",
+        "explanation": "资产所有权和职责不同。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "组合股票60%回报10%、债券30%回报2%、现金10%回报0，忽略费，组合回报？",
+    "right": {
+      "text": "6.6%",
+      "explanation": "0.6×10%+0.3×2%+0.1×0=6.6%。"
+    },
+    "wrong": [
+      {
+        "text": "4%",
+        "explanation": "不能把三项收益简单平均。"
+      },
+      {
+        "text": "12%",
+        "explanation": "未按权重。"
+      },
+      {
+        "text": "10%",
+        "explanation": "只看股票忽略其他资金。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "基金资产1,020,000、负债20,000、100,000单位，每单位NAV？",
+    "right": {
+      "text": "10",
+      "explanation": "(1,020,000−20,000)/100,000=10。"
+    },
+    "wrong": [
+      {
+        "text": "10.20",
+        "explanation": "未扣负债。"
+      },
+      {
+        "text": "1",
+        "explanation": "错除数量级。"
+      },
+      {
+        "text": "市场成交价必定10",
+        "explanation": "NAV不是价格保证。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "再平衡的主要机制是？",
+    "right": {
+      "text": "按政策调整偏离目标的组合权重",
+      "explanation": "控制风险漂移，同时考虑成本和授权。"
+    },
+    "wrong": [
+      {
+        "text": "永远买入涨得最多的资产",
+        "explanation": "不一定回归风险目标。"
+      },
+      {
+        "text": "保证下一期不亏损",
+        "explanation": "配置调整不保证结果。"
+      },
+      {
+        "text": "不产生任何成本",
+        "explanation": "交易与税费可能存在。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "被动管理的合理理解是？",
+    "right": {
+      "text": "通常跟踪基准，仍有市场和跟踪等风险",
+      "explanation": "主动与被动描述管理方式而非保本状态。"
+    },
+    "wrong": [
+      {
+        "text": "完全无风险",
+        "explanation": "跟踪下跌市场仍可能亏损。"
+      },
+      {
+        "text": "无需任何交易",
+        "explanation": "复制与调整通常需交易。"
+      },
+      {
+        "text": "每只基金收费必相同",
+        "explanation": "费用有差异。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "基金赚5%、合适基准涨8%，应怎样表达？",
+    "right": {
+      "text": "绝对赚5%，相对落后3个百分点",
+      "explanation": "分清绝对结果与相对表现。"
+    },
+    "wrong": [
+      {
+        "text": "亏损本金3%",
+        "explanation": "相对落后不同于绝对亏损。"
+      },
+      {
+        "text": "跑赢3个百分点",
+        "explanation": "方向反了。"
+      },
+      {
+        "text": "两者同样表现",
+        "explanation": "差3个百分点。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "投资政策声明IPS主要记录什么？",
+    "right": {
+      "text": "目标、风险、期限、授权及限制",
+      "explanation": "IPS使实施与评估有明确依据。"
+    },
+    "wrong": [
+      {
+        "text": "保证所有证券价格",
+        "explanation": "政策不能保证市场。"
+      },
+      {
+        "text": "经理个人消费预算",
+        "explanation": "资金主体不同。"
+      },
+      {
+        "text": "只写一个热门产品代码",
+        "explanation": "不足表达授权与约束。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "客户愿冒险，但三个月后要用全部资金，顾问应如何判断？",
+    "right": {
+      "text": "同时评估损失能力、期限与流动性",
+      "explanation": "合适性要结合实际目标及财务情况。"
+    },
+    "wrong": [
+      {
+        "text": "只看主观意愿即可",
+        "explanation": "风险能力与意愿不同。"
+      },
+      {
+        "text": "让客户签名即可无需分析",
+        "explanation": "签名不替代适用义务。"
+      },
+      {
+        "text": "长年平均收益保证三个月金额",
+        "explanation": "期限和实现结果不匹配。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "KYC在本章需求分析中的作用是？",
+    "right": {
+      "text": "了解客户目标、情况与经验等",
+      "explanation": "客户事实是推荐分析基础，仍须合适产品判断。"
+    },
+    "wrong": [
+      {
+        "text": "仅因字母相同就与所有反洗钱要求完全相同",
+        "explanation": "不同规则有特定范围。"
+      },
+      {
+        "text": "替代产品尽调",
+        "explanation": "客户与产品都要了解。"
+      },
+      {
+        "text": "确保客户一定获利",
+        "explanation": "了解资料不是收益保证。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "披露顾问可收佣金之后，哪项仍然重要？",
+    "right": {
+      "text": "实质合适性、冲突管理和适用义务",
+      "explanation": "披露是处理冲突的一部分，不是万能豁免。"
+    },
+    "wrong": [
+      {
+        "text": "所有不合适推荐都被自动允许",
+        "explanation": "披露不免除相关责任。"
+      },
+      {
+        "text": "无需说明产品风险",
+        "explanation": "解释义务仍适用。"
+      },
+      {
+        "text": "客户目标不再重要",
+        "explanation": "推荐仍应连接目标。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "企业融资、资产管理和财务顾问怎样相互依存？",
+    "right": {
+      "text": "连接融资需求、投资决策与客户目标",
+      "explanation": "可在一条资金链协作，但各有职责和冲突控制。"
+    },
+    "wrong": [
+      {
+        "text": "三者法律身份和职责必完全一样",
+        "explanation": "功能与服务对象不同。"
+      },
+      {
+        "text": "基金认购后公司不用履约",
+        "explanation": "企业仍有证券相关义务。"
+      },
+      {
+        "text": "所有家庭必须通过唯一基金投资",
+        "explanation": "有多种合资格渠道。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "同一集团为发行人服务，又管理可能认购的基金，应注意？",
+    "right": {
+      "text": "利益冲突、信息安排与独立投资判断",
+      "explanation": "不同服务对象利益不必自动一致。"
+    },
+    "wrong": [
+      {
+        "text": "发行成功便足以证明客户合适",
+        "explanation": "客户及基金目标仍须分别评估。"
+      },
+      {
+        "text": "内部交易永远无冲突",
+        "explanation": "同集团可能增加冲突。"
+      },
+      {
+        "text": "无需披露重要风险",
+        "explanation": "规则和投资分析仍要求相关信息。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "chapter",
+    "question": "以下何者正确？I.利润不等于即时现金；II.基金资产不是经理私人财产；III.客户愿意亏损表示任何产品都合适。",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "七章知识最终应落实到主体、现金流和风险匹配。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "还须看能力、目标、经验及产品。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "III错误。"
+      },
+      {
+        "text": "仅II",
+        "explanation": "I也正确。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "一个家庭本期收入45,000，消费37,000，没有其他项目。本期资金盈余为？",
+    "right": {
+      "text": "8,000",
+      "explanation": "45,000−37,000=8,000。"
+    },
+    "wrong": [
+      {
+        "text": "45,000",
+        "explanation": "收入未扣消费。"
+      },
+      {
+        "text": "37,000",
+        "explanation": "这是消费而非盈余。"
+      },
+      {
+        "text": "82,000",
+        "explanation": "盈余不是收支相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "星港面包公司发行原始期限9个月的票据，之后投资者经交易商转售。以下分类何者可同时成立？",
+    "right": {
+      "text": "货币市场、二级市场、场外交易",
+      "explanation": "期限、发行阶段和交易机制是不同分类轴。"
+    },
+    "wrong": [
+      {
+        "text": "只有一级市场",
+        "explanation": "题干描述已发行票据转手。"
+      },
+      {
+        "text": "普通股市场、没有到期日",
+        "explanation": "工具是9个月债务。"
+      },
+      {
+        "text": "只要场外就不可能受监管",
+        "explanation": "场所与监管状态不同。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "星港面包公司获银行贷款并记入存款账户，正确的银行记账直觉是？",
+    "right": {
+      "text": "贷款资产和客户存款负债可同时增加",
+      "explanation": "须分银行和客户两个主体；银行贷款不能无限扩张，仍受资本流动性约束。"
+    },
+    "wrong": [
+      {
+        "text": "只增加银行股东权益",
+        "explanation": "客户存款是负债，不是权益。"
+      },
+      {
+        "text": "客户存款是银行利润",
+        "explanation": "银行仍负付款义务。"
+      },
+      {
+        "text": "贷款资产必由同额股价上涨形成",
+        "explanation": "股价不是贷款记账来源。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "星港面包公司原材料普遍变贵，其他条件不变，在产品市场最直接的分析起点是？",
+    "right": {
+      "text": "供给条件改变，不能只当需求沿曲线变化",
+      "explanation": "成本变化可影响生产者愿意供给的数量，再分析价格和需求反应。"
+    },
+    "wrong": [
+      {
+        "text": "每个消费者收入必同幅增加",
+        "explanation": "题干没有给出收入变化。"
+      },
+      {
+        "text": "所有商品价格必精确涨相同金额",
+        "explanation": "传导受竞争需求等影响。"
+      },
+      {
+        "text": "需求和供给概念完全相同",
+        "explanation": "决定因素不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "经济衰退时政府暂时减税。以下哪项分析最准确？",
+    "right": {
+      "text": "这是财政工具，最终需求效果还取决于行为与时滞",
+      "explanation": "先识别支出税收工具，再讨论传导条件。"
+    },
+    "wrong": [
+      {
+        "text": "是私人期权行权",
+        "explanation": "不是衍生合同。"
+      },
+      {
+        "text": "必定使全部新增收入即时消费",
+        "explanation": "家庭可能储蓄或偿债。"
+      },
+      {
+        "text": "必保证所有资产价格上涨",
+        "explanation": "尚受预期及折现率等影响。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "教学银行资产800、负债740，确认资产损失25，负债不变。剩余权益？",
+    "right": {
+      "text": "35",
+      "explanation": "资产变775，权益=775−740=35。资本缓冲与即时现金不是同一概念。"
+    },
+    "wrong": [
+      {
+        "text": "60",
+        "explanation": "这是损失前权益。"
+      },
+      {
+        "text": "775",
+        "explanation": "这是损失后资产，未减负债。"
+      },
+      {
+        "text": "25",
+        "explanation": "这是损失额。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "星港面包公司盈利比去年增15%，但低于市场事前预计值。下列何者合理？",
+    "right": {
+      "text": "股价仍可能下跌，须同时看预期差与要求回报",
+      "explanation": "好于去年和好于预期是不同比较。"
+    },
+    "wrong": [
+      {
+        "text": "必涨15%",
+        "explanation": "盈利同比增幅不决定股价同幅变化。"
+      },
+      {
+        "text": "公司会计必错",
+        "explanation": "低于预期不证明报表错误。"
+      },
+      {
+        "text": "所有投资者已知全部未来",
+        "explanation": "信息不确定性仍在。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-a",
+    "question": "海外机构认购新发行的企业债，资金跨境流入。最准确的机制认识是？",
+    "right": {
+      "text": "属于跨境证券投资情境，还需分析币种与资金流风险",
+      "explanation": "区分贸易、直接投资与证券投资，正式统计按相应标准。"
+    },
+    "wrong": [
+      {
+        "text": "必定是商品进口",
+        "explanation": "证券交易与货物贸易不同。"
+      },
+      {
+        "text": "只要跨境就一定取得管理控制",
+        "explanation": "不能把全部证券投资当FDI。"
+      },
+      {
+        "text": "跨境本身保证分散成功",
+        "explanation": "相关性和风险仍需分析。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "星港面包公司同时为员工安排MPF并向经纪发出股票订单。哪一配对合理？",
+    "right": {
+      "text": "MPF体系联想MPFA，证券经纪监管联想SFC",
+      "explanation": "不同金融业务有分工，跨领域可有协作。"
+    },
+    "wrong": [
+      {
+        "text": "两者只由IA监管",
+        "explanation": "IA主要保险业务。"
+      },
+      {
+        "text": "两者均由IMF执行订单",
+        "explanation": "IMF不是经纪。"
+      },
+      {
+        "text": "由公司自己替代所有法定监管",
+        "explanation": "经营主体不取代监管。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "客户认为获认可退休计划必须每年盈利。应如何回应？",
+    "right": {
+      "text": "监管与产品收益保证不同，需看具体合同和风险",
+      "explanation": "制度保护机制与经济结果不能混淆。"
+    },
+    "wrong": [
+      {
+        "text": "监管等于所有损失政府承担",
+        "explanation": "没有此普遍保证。"
+      },
+      {
+        "text": "无需看费用条款",
+        "explanation": "费用和条款仍重要。"
+      },
+      {
+        "text": "只要有牌照就不必解释风险",
+        "explanation": "许可不取消适用义务。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "港元触及强方兑换保证，金管局按机制操作。其他不变，哪组方向正确？",
+    "right": {
+      "text": "买美元、卖港元，总结余增加",
+      "explanation": "从金管局付出或收回港元的方向判断银行结算余额。"
+    },
+    "wrong": [
+      {
+        "text": "买港元、卖美元，总结余减少",
+        "explanation": "这是另一端的操作方向。"
+      },
+      {
+        "text": "给每人开立普通储蓄户口",
+        "explanation": "兑换保证不是该业务。"
+      },
+      {
+        "text": "买入全部私人股票并保证价格",
+        "explanation": "不是该机制。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "进口应付款USD25,000，假设无买卖差价，USD/HKD由7.77变7.83。相同美元付款的港元成本增加约？",
+    "right": {
+      "text": "1,500",
+      "explanation": "25,000×(7.83−7.77)=1,500港元，港元相对转弱。"
+    },
+    "wrong": [
+      {
+        "text": "195,750",
+        "explanation": "这是新总成本，不是增额。"
+      },
+      {
+        "text": "194,250",
+        "explanation": "这是原总成本。"
+      },
+      {
+        "text": "0",
+        "explanation": "联系区间内也有价格差异。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "公司800,000港元浮息债在新完整计息年由3.5%改为5.0%，其他不变。年利息增加？",
+    "right": {
+      "text": "12,000",
+      "explanation": "800,000×(0.05−0.035)=12,000。"
+    },
+    "wrong": [
+      {
+        "text": "40,000",
+        "explanation": "这是新利息总额。"
+      },
+      {
+        "text": "28,000",
+        "explanation": "这是旧利息。"
+      },
+      {
+        "text": "0",
+        "explanation": "题设已说明浮息重设。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "星港面包公司游客销售增加，但租金和工资也上涨，应如何分析盈利？",
+    "right": {
+      "text": "分开计算新增收入与成本，再评估净现金和预期",
+      "explanation": "多条路径可同时发生，不能用单一标题替代净效应。"
+    },
+    "wrong": [
+      {
+        "text": "游客增加必保证利润同幅增长",
+        "explanation": "成本和容量可能抵销。"
+      },
+      {
+        "text": "工资增加不影响任何利润",
+        "explanation": "费用会影响盈利。"
+      },
+      {
+        "text": "只能用交易所指数点数判断",
+        "explanation": "缺少企业机制。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "金融机构把所有收款依赖同一云平台，平台中断。科技分析最完整的是？",
+    "right": {
+      "text": "效率改善需要配合权限、韧性、后备与独立监控",
+      "explanation": "技术是工具，控制与责任仍要落实。"
+    },
+    "wrong": [
+      {
+        "text": "数字化自动消除操作风险",
+        "explanation": "系统依赖也会带来风险。"
+      },
+      {
+        "text": "只需看下载量",
+        "explanation": "不能反映控制质量。"
+      },
+      {
+        "text": "不必对账",
+        "explanation": "电子记录仍须核对。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-a",
+    "question": "备考时发现现实银行制度有改革公告，但手册版本尚未取得。最佳处理是？",
+    "right": {
+      "text": "分别记录公告阶段、生效状态及该场考试口径",
+      "explanation": "保留可核验事实，取得适用指南后逐项核对。"
+    },
+    "wrong": [
+      {
+        "text": "自行推定所有拟议门槛已生效",
+        "explanation": "草案不等于实施。"
+      },
+      {
+        "text": "删掉全部制度内容",
+        "explanation": "可保留已核验原理并记录具体待查。"
+      },
+      {
+        "text": "把考纲文件名当成已读完整教材",
+        "explanation": "二者信息量不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "每股32买入，期间股息1.5，35卖出，无费。持有期总回报约？",
+    "right": {
+      "text": "14.0625%",
+      "explanation": "(35−32+1.5)/32=0.140625。"
+    },
+    "wrong": [
+      {
+        "text": "9.3750%",
+        "explanation": "只计价格变动漏分配。"
+      },
+      {
+        "text": "4.6875%",
+        "explanation": "只计股息。"
+      },
+      {
+        "text": "-14.0625%",
+        "explanation": "总损益方向反了。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "每持2股可供1股，旧价18、认购价12，全参与且无其他变化。TERP约？",
+    "right": {
+      "text": "16.00",
+      "explanation": "(2×18+12)/(2+1)=16.00。"
+    },
+    "wrong": [
+      {
+        "text": "15.00",
+        "explanation": "未按旧股与新股比例加权。"
+      },
+      {
+        "text": "18",
+        "explanation": "忽略新股与认购款。"
+      },
+      {
+        "text": "12",
+        "explanation": "认购价不是全部股份理论价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "独立红股情境，每3旧股送1股，原价24，简化理论新价？",
+    "right": {
+      "text": "18.00",
+      "explanation": "3×24/(3+1)=18.00。"
+    },
+    "wrong": [
+      {
+        "text": "24",
+        "explanation": "理论总值不因股数增加自动增加。"
+      },
+      {
+        "text": "32.00",
+        "explanation": "价格调整方向反了。"
+      },
+      {
+        "text": "0",
+        "explanation": "股份增多不表示企业价值消失。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "股价36、EPS3，盈利口径可比时P/E为？",
+    "right": {
+      "text": "12倍",
+      "explanation": "36/3=12。低倍数仍须分析增长风险和盈利质量。"
+    },
+    "wrong": [
+      {
+        "text": "108倍",
+        "explanation": "P/E是相除。"
+      },
+      {
+        "text": "8.33%",
+        "explanation": "这是反向收益比率。"
+      },
+      {
+        "text": "33倍",
+        "explanation": "价格减EPS不是倍数。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "股价15、每股账面净资产10，P/B为？",
+    "right": {
+      "text": "1.5倍",
+      "explanation": "15/10=1.5。"
+    },
+    "wrong": [
+      {
+        "text": "0.6667倍",
+        "explanation": "分子分母反了。"
+      },
+      {
+        "text": "5倍",
+        "explanation": "相减不是估值倍数。"
+      },
+      {
+        "text": "必定便宜",
+        "explanation": "比率本身不能保证价值判断。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "刚付股息D0=1.5，假定长期增长4%、要求回报10%且模型适用，理论价值？",
+    "right": {
+      "text": "26.00",
+      "explanation": "D1=1.5×(1+0.04)；P=D1/(0.1−0.04)=26.00。"
+    },
+    "wrong": [
+      {
+        "text": "25.00",
+        "explanation": "漏把D0增长到下一期D1。"
+      },
+      {
+        "text": "11.14",
+        "explanation": "分母应为k−g。"
+      },
+      {
+        "text": "无法因为股息绝不进入估值",
+        "explanation": "模型明确以股息现值估值。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "适用股数2,000,000，每股7，市值为？",
+    "right": {
+      "text": "14,000,000",
+      "explanation": "2,000,000×7=14,000,000。"
+    },
+    "wrong": [
+      {
+        "text": "2,000,000",
+        "explanation": "只看股数没乘价格。"
+      },
+      {
+        "text": "2,000,007",
+        "explanation": "单位不同不能这样相加。"
+      },
+      {
+        "text": "等于企业可用现金",
+        "explanation": "市场股权价值不等于银行余额。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "教学价格指数只有两成分，期初权重70%/30%，期间价格回报10%/-2%，无调整，指数回报？",
+    "right": {
+      "text": "6.40%",
+      "explanation": "0.7×0.1+(1−0.7)×-0.02=0.0640，忽略分配和调整。"
+    },
+    "wrong": [
+      {
+        "text": "4.00%",
+        "explanation": "这仅等权时适用。"
+      },
+      {
+        "text": "8.00%",
+        "explanation": "直接相加未加权。"
+      },
+      {
+        "text": "由股票名长短决定",
+        "explanation": "权重来自编制方法。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-a",
+    "question": "客户看到成交确认便认为证券资金已经完成最终交收。最适当纠正是？",
+    "right": {
+      "text": "成交、结算与交收不同，客户付款看商业安排",
+      "explanation": "交易完成与最终资产资金转移须区分，参与者交收周期不自动决定客户协议。"
+    },
+    "wrong": [
+      {
+        "text": "每只股票永远T+0同时交收",
+        "explanation": "产品制度不同。"
+      },
+      {
+        "text": "结算所为客户保证盈利",
+        "explanation": "不承担这项承诺。"
+      },
+      {
+        "text": "证券账户记录从不需要核对",
+        "explanation": "仍须独立核对。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "零息债面值2000，2年后偿还，年要求收益率4%，无违约，现值约？",
+    "right": {
+      "text": "1849.11",
+      "explanation": "2000/(1+0.04)^2=1849.11。"
+    },
+    "wrong": [
+      {
+        "text": "2163.20",
+        "explanation": "这是向未来复利。"
+      },
+      {
+        "text": "1840.00",
+        "explanation": "直接线性减息不是复利折现。"
+      },
+      {
+        "text": "2000",
+        "explanation": "忽略时间价值。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "面值1000、年票息4%、剩2年年末付息，付息后估值，YTM5%。价格约？",
+    "right": {
+      "text": "981.41",
+      "explanation": "40.0/(1+0.05)+(1000+40.0)/(1+0.05)²=981.41。"
+    },
+    "wrong": [
+      {
+        "text": "1000",
+        "explanation": "票息率与要求收益率不等，不能直接作面值。"
+      },
+      {
+        "text": "74.38",
+        "explanation": "漏到期本金。"
+      },
+      {
+        "text": "1080.00",
+        "explanation": "未折现未来款项。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "面值5000，年票息6%，一年付2次等额票息，每期多少？",
+    "right": {
+      "text": "150.00",
+      "explanation": "5000×0.06/2=150.00。"
+    },
+    "wrong": [
+      {
+        "text": "300.00",
+        "explanation": "这是全年票息。"
+      },
+      {
+        "text": "600.00",
+        "explanation": "应除频率而非乘。"
+      },
+      {
+        "text": "5000",
+        "explanation": "这是面值，不是票息。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "名义年率6%，一年复利4次，有效年率约？",
+    "right": {
+      "text": "6.1364%",
+      "explanation": "(1+0.06/4)^4−1=0.061364。"
+    },
+    "wrong": [
+      {
+        "text": "6.0000%",
+        "explanation": "未计年内利息的利息。"
+      },
+      {
+        "text": "1.5000%",
+        "explanation": "这是每期利率。"
+      },
+      {
+        "text": "24.0000%",
+        "explanation": "不是年率乘频率。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "名义年度回报8%、同期通胀3%，精确实际回报约？",
+    "right": {
+      "text": "4.8544%",
+      "explanation": "(1+0.08)/(1+0.03)−1=0.048544。"
+    },
+    "wrong": [
+      {
+        "text": "5.0000%",
+        "explanation": "相减是近似，题问精确。"
+      },
+      {
+        "text": "11.0000%",
+        "explanation": "不能相加。"
+      },
+      {
+        "text": "8.0000%",
+        "explanation": "未扣购买力变化。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "债券年票息60、当前价960，当期收益率约？",
+    "right": {
+      "text": "6.2500%",
+      "explanation": "60/960=0.062500，不能因此断言YTM或实际回报同值。"
+    },
+    "wrong": [
+      {
+        "text": "16.0000倍",
+        "explanation": "这是倒数，非当期收益率。"
+      },
+      {
+        "text": "12.5000%",
+        "explanation": "题干未要求翻倍。"
+      },
+      {
+        "text": "无法因为需要知道所有未来市场价",
+        "explanation": "当期收益率只用票息和当前价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "repo今天取得200,000，60天后付200,600，按/360简单年化率？",
+    "right": {
+      "text": "1.80%",
+      "explanation": "(200600−200000)/200000×360/60=0.0180。"
+    },
+    "wrong": [
+      {
+        "text": "0.30%",
+        "explanation": "这是期间率未年化。"
+      },
+      {
+        "text": "0.90%",
+        "explanation": "年化期限处理错误。"
+      },
+      {
+        "text": "18.00%",
+        "explanation": "多乘了10。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "同币种及相近条款企业债6.2%、参考债4.0%，简单利差？",
+    "right": {
+      "text": "220bp",
+      "explanation": "(0.062−0.04)×10,000=220bp。"
+    },
+    "wrong": [
+      {
+        "text": "2.2bp",
+        "explanation": "把百分点误当基点。"
+      },
+      {
+        "text": "22000bp",
+        "explanation": "多乘100。"
+      },
+      {
+        "text": "等于准确违约概率",
+        "explanation": "利差包含其他风险溢价和流动性等。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-a",
+    "question": "可比短债收益率5%、长债3.5%。应怎样描述？",
+    "right": {
+      "text": "倒挂，且不能保证某日期必发生衰退",
+      "explanation": "先描述期限与收益率关系，再讨论可能成因及条件。"
+    },
+    "wrong": [
+      {
+        "text": "所有债券价格一定相同",
+        "explanation": "收益率曲线不是同价曲线。"
+      },
+      {
+        "text": "证明长债永不违约",
+        "explanation": "曲线形状不保证信用。"
+      },
+      {
+        "text": "能精确预测明日股价",
+        "explanation": "无法由此确定股价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "银行USD/HKD=7.78/7.82，客户卖USD2000，无其他费，收到港元？",
+    "right": {
+      "text": "15,560.00",
+      "explanation": "客户卖美元，银行买美元，用bid：2000×7.78。"
+    },
+    "wrong": [
+      {
+        "text": "15,640.00",
+        "explanation": "用成银行卖美元价。"
+      },
+      {
+        "text": "15,600.00",
+        "explanation": "中间价不是题给买入成交价。"
+      },
+      {
+        "text": "257.07",
+        "explanation": "兑换方向和单位错。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "1EUR=1.2USD，1USD=7.8HKD，不含差价，1EUR为多少HKD？",
+    "right": {
+      "text": "9.3600",
+      "explanation": "1.2×7.8=9.3600。"
+    },
+    "wrong": [
+      {
+        "text": "6.5000",
+        "explanation": "应让USD单位消掉，方向应相乘。"
+      },
+      {
+        "text": "0.1068",
+        "explanation": "这是反向报价。"
+      },
+      {
+        "text": "9.0000",
+        "explanation": "汇率不直接相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "每USD港元报价S=7.8，0.25年远期F=7.76，简单年化升贴水约？",
+    "right": {
+      "text": "-2.0513%",
+      "explanation": "(7.76−7.8)/7.8/0.25=-0.020513；负数表示该基础美元在此报价远期贴水。"
+    },
+    "wrong": [
+      {
+        "text": "-0.5128%",
+        "explanation": "这是期间比率，未按期限年化。"
+      },
+      {
+        "text": "2.0513%",
+        "explanation": "升贴水方向反了。"
+      },
+      {
+        "text": "-400.0000%",
+        "explanation": "差额与比率单位混淆。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "S=8为每外币本币价，本币年单利3%、外币5%，T=1年，理想利率平价F约？",
+    "right": {
+      "text": "7.8476",
+      "explanation": "F=8×(1+0.03×1)/(1+0.05×1)=7.8476。"
+    },
+    "wrong": [
+      {
+        "text": "8.1553",
+        "explanation": "本外币利率放反。"
+      },
+      {
+        "text": "8.2400",
+        "explanation": "漏除外币投资增长。"
+      },
+      {
+        "text": "8",
+        "explanation": "利率不同且题设模型适用时不能直接不变。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "买入call，K=60、权利金5，到期S=68，无费，每单位净利润？",
+    "right": {
+      "text": "3",
+      "explanation": "max(68−60,0)−5=3。"
+    },
+    "wrong": [
+      {
+        "text": "8",
+        "explanation": "这是支付，未扣权利金。"
+      },
+      {
+        "text": "13",
+        "explanation": "买方应扣权利金。"
+      },
+      {
+        "text": "-3",
+        "explanation": "把买卖方向反了。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "卖出put，K=50、收权利金3，到期S=42，无费，每单位净利润？",
+    "right": {
+      "text": "-5",
+      "explanation": "3−max(50−42,0)=-5。"
+    },
+    "wrong": [
+      {
+        "text": "5",
+        "explanation": "这是买put方向。"
+      },
+      {
+        "text": "11",
+        "explanation": "卖方应承担被行权支付。"
+      },
+      {
+        "text": "-8",
+        "explanation": "只计合约支付漏收到的权利金。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "空头期货3份，开仓200、平仓194、每点20元，忽略费总损益？",
+    "right": {
+      "text": "360",
+      "explanation": "空头为(200−194)×20×3=360。"
+    },
+    "wrong": [
+      {
+        "text": "-360",
+        "explanation": "这是多头方向。"
+      },
+      {
+        "text": "120",
+        "explanation": "只算一份合约。"
+      },
+      {
+        "text": "0",
+        "explanation": "价格已经变动。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "进口商需USD20,000，远期锁定7.84，到期即期7.92，全部履约无费。港元采购成本锁定多少？",
+    "right": {
+      "text": "156,800",
+      "explanation": "20000×7.84=156,800；是否事后便宜与预算是否稳定是不同问题。"
+    },
+    "wrong": [
+      {
+        "text": "158,400",
+        "explanation": "这是不对冲时即期换汇成本。"
+      },
+      {
+        "text": "1,600",
+        "explanation": "这是相对成本差，不是总付款。"
+      },
+      {
+        "text": "0",
+        "explanation": "对冲不免除商品和货币付款。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-a",
+    "question": "FRA名义额2,000,000，实际参考年率6%、合同4%，T=0.25，期间开始结算，收取上升利率差一方金额约？",
+    "right": {
+      "text": "9,852.22",
+      "explanation": "N(L−K)T/(1+LT)=9,852.22，日数和起点按题设。"
+    },
+    "wrong": [
+      {
+        "text": "10,000.00",
+        "explanation": "这是期间末差额，未折回期初。"
+      },
+      {
+        "text": "2,000,000.00",
+        "explanation": "名义额不等于差额付款。"
+      },
+      {
+        "text": "-9,852.22",
+        "explanation": "收付方向与题干相反。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "企业净资产为正，却无法在明日补足保证金。风险分析应怎样做？",
+    "right": {
+      "text": "区分变现与筹资付款，并检验二者反馈",
+      "explanation": "流动性有市场和融资两侧，急售可传导成资本损失。"
+    },
+    "wrong": [
+      {
+        "text": "净值为正就不必留现金",
+        "explanation": "付款日期可能先到。"
+      },
+      {
+        "text": "只需背VaR数值",
+        "explanation": "VaR不包办现金流。"
+      },
+      {
+        "text": "市场风险已全部消失",
+        "explanation": "出售价格仍可变化。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "压力周可用现金30,000、确定收款20,000、必要付款80,000、额外追缴15,000，缺口？",
+    "right": {
+      "text": "45,000",
+      "explanation": "80000+15000−30000−20000=45000。"
+    },
+    "wrong": [
+      {
+        "text": "30,000",
+        "explanation": "漏额外追缴。"
+      },
+      {
+        "text": "95,000",
+        "explanation": "未扣现金和确定收款。"
+      },
+      {
+        "text": "0",
+        "explanation": "流入不足覆盖流出。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "修正久期5，债值200,000，收益率升20bp，小变动近似损失？",
+    "right": {
+      "text": "2,000",
+      "explanation": "损失≈200000×5×0.002=2,000；大变动须注意近似误差。"
+    },
+    "wrong": [
+      {
+        "text": "200",
+        "explanation": "基点小数转换少一位。"
+      },
+      {
+        "text": "20,000",
+        "explanation": "基点转换多一位。"
+      },
+      {
+        "text": "赚2,000",
+        "explanation": "固定现金流下方向应下跌。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "模型两情景，概率70%回报8%，其余概率回报-6%，预期回报？",
+    "right": {
+      "text": "3.80%",
+      "explanation": "0.7×0.08+(1−0.7)×-0.06=0.0380。"
+    },
+    "wrong": [
+      {
+        "text": "1.00%",
+        "explanation": "概率不等时不能简单平均。"
+      },
+      {
+        "text": "8.00%",
+        "explanation": "只计好情景。"
+      },
+      {
+        "text": "必每年实现这一数值",
+        "explanation": "预期不等于承诺或单次结果。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "两资产各半，波动率相同但相关性由1降至0。其他条件不变，组合波动通常怎样？",
+    "right": {
+      "text": "下降",
+      "explanation": "组合方差含2w1w2σ1σ2ρ，固定非负权重及波动率时随ρ增加而增加。"
+    },
+    "wrong": [
+      {
+        "text": "上升",
+        "explanation": "相关性降低在此条件下减少方差。"
+      },
+      {
+        "text": "固定等于零",
+        "explanation": "只有特殊完全抵销条件才可能零。"
+      },
+      {
+        "text": "相关系数等于一起涨的概率",
+        "explanation": "相关系数不是概率。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "模型给出10日99%VaR为500,000。以下陈述何者正确？",
+    "right": {
+      "text": "须检查尾部损失、模型和流动性，阈值不是最大损失",
+      "explanation": "VaR用分位阈值压缩风险，不提供全部尾部信息。"
+    },
+    "wrong": [
+      {
+        "text": "超过阈值绝不可能",
+        "explanation": "VaR留下尾部且模型会错。"
+      },
+      {
+        "text": "可省略持有期比较数字",
+        "explanation": "持有期影响风险。"
+      },
+      {
+        "text": "不必做压力测试",
+        "explanation": "严重情景仍须检查。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "买期货对冲采购，原现货100/期货101，采购时现货112/期货109。每单位相对原采购预算残余增加成本？",
+    "right": {
+      "text": "4",
+      "explanation": "现货多付12减期货赚8=4；与基差变化一致。"
+    },
+    "wrong": [
+      {
+        "text": "12",
+        "explanation": "只算现货，漏对冲收益。"
+      },
+      {
+        "text": "8",
+        "explanation": "只算期货，不是残余成本。"
+      },
+      {
+        "text": "0",
+        "explanation": "两条价格不同步，非完美对冲。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "交易员同时负责独立确认自己交易和修改后台记录。最直接的改进是？",
+    "right": {
+      "text": "落实独立职责、确认对账与明确升级行动",
+      "explanation": "控制设计必须能发现并处理异常。"
+    },
+    "wrong": [
+      {
+        "text": "只增加年度利润目标",
+        "explanation": "无助于直接控制失效。"
+      },
+      {
+        "text": "让原交易员自行宣布无风险",
+        "explanation": "缺独立性。"
+      },
+      {
+        "text": "删掉超限记录",
+        "explanation": "隐瞒会恶化控制。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-a",
+    "question": "以下陈述何者正确？I.单家机构合理操作可形成集体抛售；II.融资与市场流动性可互相强化；III.任何担保都保证足额收回。",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "体系联系和反馈是宏观风险分析的关键。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "担保品价值及执行仍有风险。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "III错误。"
+      },
+      {
+        "text": "仅I",
+        "explanation": "II也正确。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "期初现金80,000，月1付款230,000，月3才收100,000。没有其他流量时月1最高缺口？",
+    "right": {
+      "text": "150,000",
+      "explanation": "月1缺口=230000−80000=150000；安排融资要看时间峰值。"
+    },
+    "wrong": [
+      {
+        "text": "50,000",
+        "explanation": "将月3收款错误提前用于月1。"
+      },
+      {
+        "text": "230,000",
+        "explanation": "没扣已有现金。"
+      },
+      {
+        "text": "0",
+        "explanation": "现金不足按时付款。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "原股东持全部1000同类股份，新发行250股给外人，原股东不认购，发行后持股比例？",
+    "right": {
+      "text": "80%",
+      "explanation": "1000/(1000+250)=80%，同类股等权简化。"
+    },
+    "wrong": [
+      {
+        "text": "100%",
+        "explanation": "分母包含新发行股。"
+      },
+      {
+        "text": "25%",
+        "explanation": "新股数/旧股数不是旧股东持股比例。"
+      },
+      {
+        "text": "125%",
+        "explanation": "持股比例不可如此相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "独立项目今天投50,000，年1末收30,000、年2末收28,000，折现率8%，NPV约？",
+    "right": {
+      "text": "1,783.26",
+      "explanation": "30000/(1+0.08)+28000/(1+0.08)²−50000=1,783.26，估计现金流非保证。"
+    },
+    "wrong": [
+      {
+        "text": "8,000.00",
+        "explanation": "未处理时间价值。"
+      },
+      {
+        "text": "51,783.26",
+        "explanation": "只算流入现值没扣投入。"
+      },
+      {
+        "text": "-50,000.00",
+        "explanation": "漏未来流入。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "基金每单位NAV=10，市场价10.3，相对NAV溢价率（负为折价）？",
+    "right": {
+      "text": "3.00%",
+      "explanation": "10.3/10−1=0.0300，NAV不是保证成交价。"
+    },
+    "wrong": [
+      {
+        "text": "0.30%",
+        "explanation": "金额差未除NAV。"
+      },
+      {
+        "text": "-3.00%",
+        "explanation": "折溢方向反了。"
+      },
+      {
+        "text": "0%，NAV永远等于市场价",
+        "explanation": "价格可能偏离NAV。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "期初股票50%回报-12%，债券50%回报3%，无费无中途现金流，组合回报？",
+    "right": {
+      "text": "-4.50%",
+      "explanation": "0.5×-0.12+(1−0.5)×0.03=-0.0450。"
+    },
+    "wrong": [
+      {
+        "text": "-9.00%",
+        "explanation": "未按资金权重。"
+      },
+      {
+        "text": "4.50%",
+        "explanation": "符号反了。"
+      },
+      {
+        "text": "保证大于零",
+        "explanation": "分散不保证获利。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "简化收费题：期初200,000，毛回报6.0%，费用按期初金额1.0%收，无其他项目，净期末？",
+    "right": {
+      "text": "210,000",
+      "explanation": "200000×(1+0.06−0.01)=210,000；现实费用口径按合同。"
+    },
+    "wrong": [
+      {
+        "text": "212,000",
+        "explanation": "漏管理费。"
+      },
+      {
+        "text": "198,000",
+        "explanation": "漏投资毛收益。"
+      },
+      {
+        "text": "214,000",
+        "explanation": "把费用错加为收益。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "客户两个月后需全部资金支付首期款，却想买高波动长期产品。顾问最应先做什么？",
+    "right": {
+      "text": "核对目标、财务能力、流动性、知识与风险匹配",
+      "explanation": "实际事实和产品特征应共同决定合适性。"
+    },
+    "wrong": [
+      {
+        "text": "只按客户兴奋程度决定",
+        "explanation": "意愿不能代替能力。"
+      },
+      {
+        "text": "先完成销售再补资料",
+        "explanation": "分析应在推荐前落实。"
+      },
+      {
+        "text": "把过往平均收益当保证",
+        "explanation": "未来和期限不确定。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-a",
+    "question": "发行顾问所在集团管理准备认购同一证券的基金。以下哪项合理？",
+    "right": {
+      "text": "识别并处理冲突，落实客户目标与独立判断",
+      "explanation": "服务对象及职责不同，不能以融资或销售成功替代适配判断。"
+    },
+    "wrong": [
+      {
+        "text": "披露一次即可免除全部义务",
+        "explanation": "实质要求仍适用。"
+      },
+      {
+        "text": "集团收入最高等于客户最有利",
+        "explanation": "利益可能不一致。"
+      },
+      {
+        "text": "无需解释费用和风险",
+        "explanation": "这些正影响决定。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "一个家庭本期收入52,000，消费39,000，没有其他项目。本期资金盈余为？",
+    "right": {
+      "text": "13,000",
+      "explanation": "52,000−39,000=13,000。"
+    },
+    "wrong": [
+      {
+        "text": "52,000",
+        "explanation": "收入未扣消费。"
+      },
+      {
+        "text": "39,000",
+        "explanation": "这是消费而非盈余。"
+      },
+      {
+        "text": "91,000",
+        "explanation": "盈余不是收支相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "山海物流公司发行原始期限9个月的票据，之后投资者经交易商转售。以下分类何者可同时成立？",
+    "right": {
+      "text": "货币市场、二级市场、场外交易",
+      "explanation": "期限、发行阶段和交易机制是不同分类轴。"
+    },
+    "wrong": [
+      {
+        "text": "只有一级市场",
+        "explanation": "题干描述已发行票据转手。"
+      },
+      {
+        "text": "普通股市场、没有到期日",
+        "explanation": "工具是9个月债务。"
+      },
+      {
+        "text": "只要场外就不可能受监管",
+        "explanation": "场所与监管状态不同。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "山海物流公司获银行贷款并记入存款账户，正确的银行记账直觉是？",
+    "right": {
+      "text": "贷款资产和客户存款负债可同时增加",
+      "explanation": "须分银行和客户两个主体；银行贷款不能无限扩张，仍受资本流动性约束。"
+    },
+    "wrong": [
+      {
+        "text": "只增加银行股东权益",
+        "explanation": "客户存款是负债，不是权益。"
+      },
+      {
+        "text": "客户存款是银行利润",
+        "explanation": "银行仍负付款义务。"
+      },
+      {
+        "text": "贷款资产必由同额股价上涨形成",
+        "explanation": "股价不是贷款记账来源。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "山海物流公司原材料普遍变贵，其他条件不变，在产品市场最直接的分析起点是？",
+    "right": {
+      "text": "供给条件改变，不能只当需求沿曲线变化",
+      "explanation": "成本变化可影响生产者愿意供给的数量，再分析价格和需求反应。"
+    },
+    "wrong": [
+      {
+        "text": "每个消费者收入必同幅增加",
+        "explanation": "题干没有给出收入变化。"
+      },
+      {
+        "text": "所有商品价格必精确涨相同金额",
+        "explanation": "传导受竞争需求等影响。"
+      },
+      {
+        "text": "需求和供给概念完全相同",
+        "explanation": "决定因素不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "政府在经济放缓时扩大公共服务开支。以下哪项分析最准确？",
+    "right": {
+      "text": "这是财政工具，最终需求效果还取决于行为与时滞",
+      "explanation": "先识别支出税收工具，再讨论传导条件。"
+    },
+    "wrong": [
+      {
+        "text": "是私人期权行权",
+        "explanation": "不是衍生合同。"
+      },
+      {
+        "text": "必定使全部新增收入即时消费",
+        "explanation": "家庭可能储蓄或偿债。"
+      },
+      {
+        "text": "必保证所有资产价格上涨",
+        "explanation": "尚受预期及折现率等影响。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "教学银行资产1200、负债1110，确认资产损失40，负债不变。剩余权益？",
+    "right": {
+      "text": "50",
+      "explanation": "资产变1160，权益=1160−1110=50。资本缓冲与即时现金不是同一概念。"
+    },
+    "wrong": [
+      {
+        "text": "90",
+        "explanation": "这是损失前权益。"
+      },
+      {
+        "text": "1160",
+        "explanation": "这是损失后资产，未减负债。"
+      },
+      {
+        "text": "40",
+        "explanation": "这是损失额。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "山海物流公司盈利比去年增15%，但低于市场事前预计值。下列何者合理？",
+    "right": {
+      "text": "股价仍可能下跌，须同时看预期差与要求回报",
+      "explanation": "好于去年和好于预期是不同比较。"
+    },
+    "wrong": [
+      {
+        "text": "必涨15%",
+        "explanation": "盈利同比增幅不决定股价同幅变化。"
+      },
+      {
+        "text": "公司会计必错",
+        "explanation": "低于预期不证明报表错误。"
+      },
+      {
+        "text": "所有投资者已知全部未来",
+        "explanation": "信息不确定性仍在。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 1,
+    "kind": "mock-b",
+    "question": "本地基金买入海外已上市普通股，资金跨境流出。最准确的机制认识是？",
+    "right": {
+      "text": "属于跨境证券投资情境，还需分析币种与资金流风险",
+      "explanation": "区分贸易、直接投资与证券投资，正式统计按相应标准。"
+    },
+    "wrong": [
+      {
+        "text": "必定是商品进口",
+        "explanation": "证券交易与货物贸易不同。"
+      },
+      {
+        "text": "只要跨境就一定取得管理控制",
+        "explanation": "不能把全部证券投资当FDI。"
+      },
+      {
+        "text": "跨境本身保证分散成功",
+        "explanation": "相关性和风险仍需分析。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "山海物流公司同时为员工安排MPF并向经纪发出股票订单。哪一配对合理？",
+    "right": {
+      "text": "MPF体系联想MPFA，证券经纪监管联想SFC",
+      "explanation": "不同金融业务有分工，跨领域可有协作。"
+    },
+    "wrong": [
+      {
+        "text": "两者只由IA监管",
+        "explanation": "IA主要保险业务。"
+      },
+      {
+        "text": "两者均由IMF执行订单",
+        "explanation": "IMF不是经纪。"
+      },
+      {
+        "text": "由公司自己替代所有法定监管",
+        "explanation": "经营主体不取代监管。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "客户认为保险公司受监管所以任何投资附加安排必不亏。应如何回应？",
+    "right": {
+      "text": "监管与产品收益保证不同，需看具体合同和风险",
+      "explanation": "制度保护机制与经济结果不能混淆。"
+    },
+    "wrong": [
+      {
+        "text": "监管等于所有损失政府承担",
+        "explanation": "没有此普遍保证。"
+      },
+      {
+        "text": "无需看费用条款",
+        "explanation": "费用和条款仍重要。"
+      },
+      {
+        "text": "只要有牌照就不必解释风险",
+        "explanation": "许可不取消适用义务。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "港元触及弱方兑换保证，金管局按机制操作。其他不变，哪组方向正确？",
+    "right": {
+      "text": "买港元、卖美元，总结余减少",
+      "explanation": "从金管局付出或收回港元的方向判断银行结算余额。"
+    },
+    "wrong": [
+      {
+        "text": "买美元、卖港元，总结余增加",
+        "explanation": "这是另一端的操作方向。"
+      },
+      {
+        "text": "给每人开立普通储蓄户口",
+        "explanation": "兑换保证不是该业务。"
+      },
+      {
+        "text": "买入全部私人股票并保证价格",
+        "explanation": "不是该机制。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "进口应付款USD18,000，假设无买卖差价，USD/HKD由7.76变7.84。相同美元付款的港元成本增加约？",
+    "right": {
+      "text": "1,440",
+      "explanation": "18,000×(7.84−7.76)=1,440港元，港元相对转弱。"
+    },
+    "wrong": [
+      {
+        "text": "141,120",
+        "explanation": "这是新总成本，不是增额。"
+      },
+      {
+        "text": "139,680",
+        "explanation": "这是原总成本。"
+      },
+      {
+        "text": "0",
+        "explanation": "联系区间内也有价格差异。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "公司600,000港元浮息债在新完整计息年由4.0%改为6.5%，其他不变。年利息增加？",
+    "right": {
+      "text": "15,000",
+      "explanation": "600,000×(0.065−0.04)=15,000。"
+    },
+    "wrong": [
+      {
+        "text": "39,000",
+        "explanation": "这是新利息总额。"
+      },
+      {
+        "text": "24,000",
+        "explanation": "这是旧利息。"
+      },
+      {
+        "text": "0",
+        "explanation": "题设已说明浮息重设。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "山海物流公司游客销售增加，但租金和工资也上涨，应如何分析盈利？",
+    "right": {
+      "text": "分开计算新增收入与成本，再评估净现金和预期",
+      "explanation": "多条路径可同时发生，不能用单一标题替代净效应。"
+    },
+    "wrong": [
+      {
+        "text": "游客增加必保证利润同幅增长",
+        "explanation": "成本和容量可能抵销。"
+      },
+      {
+        "text": "工资增加不影响任何利润",
+        "explanation": "费用会影响盈利。"
+      },
+      {
+        "text": "只能用交易所指数点数判断",
+        "explanation": "缺少企业机制。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "经纪采用自动下单系统，但权限错误导致异常订单。科技分析最完整的是？",
+    "right": {
+      "text": "效率改善需要配合权限、韧性、后备与独立监控",
+      "explanation": "技术是工具，控制与责任仍要落实。"
+    },
+    "wrong": [
+      {
+        "text": "数字化自动消除操作风险",
+        "explanation": "系统依赖也会带来风险。"
+      },
+      {
+        "text": "只需看下载量",
+        "explanation": "不能反映控制质量。"
+      },
+      {
+        "text": "不必对账",
+        "explanation": "电子记录仍须核对。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 2,
+    "kind": "mock-b",
+    "question": "你准备在指南更新后参加考试，找到银行改革草案但未取得新指南全文。该怎样确定笔记口径？",
+    "right": {
+      "text": "分别记录公告阶段、生效状态及该场考试口径",
+      "explanation": "保留可核验事实，取得适用指南后逐项核对。"
+    },
+    "wrong": [
+      {
+        "text": "自行推定所有拟议门槛已生效",
+        "explanation": "草案不等于实施。"
+      },
+      {
+        "text": "删掉全部制度内容",
+        "explanation": "可保留已核验原理并记录具体待查。"
+      },
+      {
+        "text": "把考纲文件名当成已读完整教材",
+        "explanation": "二者信息量不同。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "每股45买入，期间股息2.5，42卖出，无费。持有期总回报约？",
+    "right": {
+      "text": "-1.1111%",
+      "explanation": "(42−45+2.5)/45=-0.011111。"
+    },
+    "wrong": [
+      {
+        "text": "-6.6667%",
+        "explanation": "只计价格变动漏分配。"
+      },
+      {
+        "text": "5.5556%",
+        "explanation": "只计股息。"
+      },
+      {
+        "text": "1.1111%",
+        "explanation": "总损益方向反了。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "每持3股可供1股，旧价24、认购价16，全参与且无其他变化。TERP约？",
+    "right": {
+      "text": "22.00",
+      "explanation": "(3×24+16)/(3+1)=22.00。"
+    },
+    "wrong": [
+      {
+        "text": "20.00",
+        "explanation": "未按旧股与新股比例加权。"
+      },
+      {
+        "text": "24",
+        "explanation": "忽略新股与认购款。"
+      },
+      {
+        "text": "16",
+        "explanation": "认购价不是全部股份理论价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "独立红股情境，每2旧股送2股，原价28，简化理论新价？",
+    "right": {
+      "text": "14.00",
+      "explanation": "2×28/(2+2)=14.00。"
+    },
+    "wrong": [
+      {
+        "text": "28",
+        "explanation": "理论总值不因股数增加自动增加。"
+      },
+      {
+        "text": "56.00",
+        "explanation": "价格调整方向反了。"
+      },
+      {
+        "text": "0",
+        "explanation": "股份增多不表示企业价值消失。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "股价48、EPS4，盈利口径可比时P/E为？",
+    "right": {
+      "text": "12倍",
+      "explanation": "48/4=12。低倍数仍须分析增长风险和盈利质量。"
+    },
+    "wrong": [
+      {
+        "text": "192倍",
+        "explanation": "P/E是相除。"
+      },
+      {
+        "text": "8.33%",
+        "explanation": "这是反向收益比率。"
+      },
+      {
+        "text": "44倍",
+        "explanation": "价格减EPS不是倍数。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "股价18、每股账面净资产12，P/B为？",
+    "right": {
+      "text": "1.5倍",
+      "explanation": "18/12=1.5。"
+    },
+    "wrong": [
+      {
+        "text": "0.6667倍",
+        "explanation": "分子分母反了。"
+      },
+      {
+        "text": "6倍",
+        "explanation": "相减不是估值倍数。"
+      },
+      {
+        "text": "必定便宜",
+        "explanation": "比率本身不能保证价值判断。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "刚付股息D0=2，假定长期增长3%、要求回报11%且模型适用，理论价值？",
+    "right": {
+      "text": "25.75",
+      "explanation": "D1=2×(1+0.03)；P=D1/(0.11−0.03)=25.75。"
+    },
+    "wrong": [
+      {
+        "text": "25.00",
+        "explanation": "漏把D0增长到下一期D1。"
+      },
+      {
+        "text": "14.71",
+        "explanation": "分母应为k−g。"
+      },
+      {
+        "text": "无法因为股息绝不进入估值",
+        "explanation": "模型明确以股息现值估值。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "适用股数1,500,000，每股9，市值为？",
+    "right": {
+      "text": "13,500,000",
+      "explanation": "1,500,000×9=13,500,000。"
+    },
+    "wrong": [
+      {
+        "text": "1,500,000",
+        "explanation": "只看股数没乘价格。"
+      },
+      {
+        "text": "1,500,009",
+        "explanation": "单位不同不能这样相加。"
+      },
+      {
+        "text": "等于企业可用现金",
+        "explanation": "市场股权价值不等于银行余额。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "教学价格指数只有两成分，期初权重40%/60%，期间价格回报-5%/12%，无调整，指数回报？",
+    "right": {
+      "text": "5.20%",
+      "explanation": "0.4×-0.05+(1−0.4)×0.12=0.0520，忽略分配和调整。"
+    },
+    "wrong": [
+      {
+        "text": "3.50%",
+        "explanation": "这仅等权时适用。"
+      },
+      {
+        "text": "7.00%",
+        "explanation": "直接相加未加权。"
+      },
+      {
+        "text": "由股票名长短决定",
+        "explanation": "权重来自编制方法。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 3,
+    "kind": "mock-b",
+    "question": "客户听说T+2，便认为经纪无权要求买入前备足现金。最适当纠正是？",
+    "right": {
+      "text": "成交、结算与交收不同，客户付款看商业安排",
+      "explanation": "交易完成与最终资产资金转移须区分，参与者交收周期不自动决定客户协议。"
+    },
+    "wrong": [
+      {
+        "text": "每只股票永远T+0同时交收",
+        "explanation": "产品制度不同。"
+      },
+      {
+        "text": "结算所为客户保证盈利",
+        "explanation": "不承担这项承诺。"
+      },
+      {
+        "text": "证券账户记录从不需要核对",
+        "explanation": "仍须独立核对。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "零息债面值1500，3年后偿还，年要求收益率6%，无违约，现值约？",
+    "right": {
+      "text": "1259.43",
+      "explanation": "1500/(1+0.06)^3=1259.43。"
+    },
+    "wrong": [
+      {
+        "text": "1786.52",
+        "explanation": "这是向未来复利。"
+      },
+      {
+        "text": "1230.00",
+        "explanation": "直接线性减息不是复利折现。"
+      },
+      {
+        "text": "1500",
+        "explanation": "忽略时间价值。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "面值2000、年票息6%、剩2年年末付息，付息后估值，YTM4%。价格约？",
+    "right": {
+      "text": "2075.44",
+      "explanation": "120.0/(1+0.04)+(2000+120.0)/(1+0.04)²=2075.44。"
+    },
+    "wrong": [
+      {
+        "text": "2000",
+        "explanation": "票息率与要求收益率不等，不能直接作面值。"
+      },
+      {
+        "text": "226.33",
+        "explanation": "漏到期本金。"
+      },
+      {
+        "text": "2240.00",
+        "explanation": "未折现未来款项。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "面值3000，年票息8%，一年付4次等额票息，每期多少？",
+    "right": {
+      "text": "60.00",
+      "explanation": "3000×0.08/4=60.00。"
+    },
+    "wrong": [
+      {
+        "text": "240.00",
+        "explanation": "这是全年票息。"
+      },
+      {
+        "text": "960.00",
+        "explanation": "应除频率而非乘。"
+      },
+      {
+        "text": "3000",
+        "explanation": "这是面值，不是票息。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "名义年率10%，一年复利2次，有效年率约？",
+    "right": {
+      "text": "10.2500%",
+      "explanation": "(1+0.1/2)^2−1=0.102500。"
+    },
+    "wrong": [
+      {
+        "text": "10.0000%",
+        "explanation": "未计年内利息的利息。"
+      },
+      {
+        "text": "5.0000%",
+        "explanation": "这是每期利率。"
+      },
+      {
+        "text": "20.0000%",
+        "explanation": "不是年率乘频率。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "名义年度回报5%、同期通胀7%，精确实际回报约？",
+    "right": {
+      "text": "-1.8692%",
+      "explanation": "(1+0.05)/(1+0.07)−1=-0.018692。"
+    },
+    "wrong": [
+      {
+        "text": "-2.0000%",
+        "explanation": "相减是近似，题问精确。"
+      },
+      {
+        "text": "12.0000%",
+        "explanation": "不能相加。"
+      },
+      {
+        "text": "5.0000%",
+        "explanation": "未扣购买力变化。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "债券年票息80、当前价1040，当期收益率约？",
+    "right": {
+      "text": "7.6923%",
+      "explanation": "80/1040=0.076923，不能因此断言YTM或实际回报同值。"
+    },
+    "wrong": [
+      {
+        "text": "13.0000倍",
+        "explanation": "这是倒数，非当期收益率。"
+      },
+      {
+        "text": "15.3846%",
+        "explanation": "题干未要求翻倍。"
+      },
+      {
+        "text": "无法因为需要知道所有未来市场价",
+        "explanation": "当期收益率只用票息和当前价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "repo今天取得150,000，30天后付150,450，按/360简单年化率？",
+    "right": {
+      "text": "3.60%",
+      "explanation": "(150450−150000)/150000×360/30=0.0360。"
+    },
+    "wrong": [
+      {
+        "text": "0.30%",
+        "explanation": "这是期间率未年化。"
+      },
+      {
+        "text": "1.80%",
+        "explanation": "年化期限处理错误。"
+      },
+      {
+        "text": "36.00%",
+        "explanation": "多乘了10。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "同币种及相近条款企业债4.8%、参考债3.0%，简单利差？",
+    "right": {
+      "text": "180bp",
+      "explanation": "(0.048−0.03)×10,000=180bp。"
+    },
+    "wrong": [
+      {
+        "text": "1.8bp",
+        "explanation": "把百分点误当基点。"
+      },
+      {
+        "text": "18000bp",
+        "explanation": "多乘100。"
+      },
+      {
+        "text": "等于准确违约概率",
+        "explanation": "利差包含其他风险溢价和流动性等。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 4,
+    "kind": "mock-b",
+    "question": "可比短债收益率2%、长债4%。应怎样描述？",
+    "right": {
+      "text": "向上，仍需区分预期与期限溢价等",
+      "explanation": "先描述期限与收益率关系，再讨论可能成因及条件。"
+    },
+    "wrong": [
+      {
+        "text": "所有债券价格一定相同",
+        "explanation": "收益率曲线不是同价曲线。"
+      },
+      {
+        "text": "证明长债永不违约",
+        "explanation": "曲线形状不保证信用。"
+      },
+      {
+        "text": "能精确预测明日股价",
+        "explanation": "无法由此确定股价。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "银行USD/HKD=7.77/7.83，客户卖USD1500，无其他费，收到港元？",
+    "right": {
+      "text": "11,655.00",
+      "explanation": "客户卖美元，银行买美元，用bid：1500×7.77。"
+    },
+    "wrong": [
+      {
+        "text": "11,745.00",
+        "explanation": "用成银行卖美元价。"
+      },
+      {
+        "text": "11,700.00",
+        "explanation": "中间价不是题给买入成交价。"
+      },
+      {
+        "text": "193.05",
+        "explanation": "兑换方向和单位错。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "1EUR=1.15USD，1USD=7.82HKD，不含差价，1EUR为多少HKD？",
+    "right": {
+      "text": "8.9930",
+      "explanation": "1.15×7.82=8.9930。"
+    },
+    "wrong": [
+      {
+        "text": "6.8000",
+        "explanation": "应让USD单位消掉，方向应相乘。"
+      },
+      {
+        "text": "0.1112",
+        "explanation": "这是反向报价。"
+      },
+      {
+        "text": "8.9700",
+        "explanation": "汇率不直接相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "每USD港元报价S=7.8，0.5年远期F=7.86，简单年化升贴水约？",
+    "right": {
+      "text": "1.5385%",
+      "explanation": "(7.86−7.8)/7.8/0.5=0.015385；负数表示该基础美元在此报价远期贴水。"
+    },
+    "wrong": [
+      {
+        "text": "0.7692%",
+        "explanation": "这是期间比率，未按期限年化。"
+      },
+      {
+        "text": "-1.5385%",
+        "explanation": "升贴水方向反了。"
+      },
+      {
+        "text": "600.0000%",
+        "explanation": "差额与比率单位混淆。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "S=6为每外币本币价，本币年单利6%、外币2%，T=0.5年，理想利率平价F约？",
+    "right": {
+      "text": "6.1188",
+      "explanation": "F=6×(1+0.06×0.5)/(1+0.02×0.5)=6.1188。"
+    },
+    "wrong": [
+      {
+        "text": "5.8835",
+        "explanation": "本外币利率放反。"
+      },
+      {
+        "text": "6.1800",
+        "explanation": "漏除外币投资增长。"
+      },
+      {
+        "text": "6",
+        "explanation": "利率不同且题设模型适用时不能直接不变。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "买入call，K=50、权利金3，到期S=44，无费，每单位净利润？",
+    "right": {
+      "text": "-3",
+      "explanation": "max(44−50,0)−3=-3。"
+    },
+    "wrong": [
+      {
+        "text": "0",
+        "explanation": "这是支付，未扣权利金。"
+      },
+      {
+        "text": "3",
+        "explanation": "买方应扣权利金。"
+      },
+      {
+        "text": "−6",
+        "explanation": "把价外call当成可负支付的远期，忽略买方可不行权；实际最大损失是权利金3。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "卖出put，K=60、收权利金4，到期S=65，无费，每单位净利润？",
+    "right": {
+      "text": "4",
+      "explanation": "4−max(60−65,0)=4。"
+    },
+    "wrong": [
+      {
+        "text": "-4",
+        "explanation": "这是买put方向。"
+      },
+      {
+        "text": "9",
+        "explanation": "标的高于行使价时put不支付，不能把这5元差额再加给卖方。"
+      },
+      {
+        "text": "0",
+        "explanation": "只计合约支付漏收到的权利金。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "空头期货2份，开仓120、平仓125、每点40元，忽略费总损益？",
+    "right": {
+      "text": "-400",
+      "explanation": "空头为(120−125)×40×2=-400。"
+    },
+    "wrong": [
+      {
+        "text": "400",
+        "explanation": "这是多头方向。"
+      },
+      {
+        "text": "-200",
+        "explanation": "只算一份合约。"
+      },
+      {
+        "text": "0",
+        "explanation": "价格已经变动。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "进口商需USD15,000，远期锁定7.81，到期即期7.73，全部履约无费。港元采购成本锁定多少？",
+    "right": {
+      "text": "117,150",
+      "explanation": "15000×7.81=117,150；是否事后便宜与预算是否稳定是不同问题。"
+    },
+    "wrong": [
+      {
+        "text": "115,950",
+        "explanation": "这是不对冲时即期换汇成本。"
+      },
+      {
+        "text": "1,200",
+        "explanation": "这是相对成本差，不是总付款。"
+      },
+      {
+        "text": "0",
+        "explanation": "对冲不免除商品和货币付款。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 5,
+    "kind": "mock-b",
+    "question": "FRA名义额1,000,000，实际参考年率7%、合同5%，T=0.5，期间开始结算，收取上升利率差一方金额约？",
+    "right": {
+      "text": "9,661.84",
+      "explanation": "N(L−K)T/(1+LT)=9,661.84，日数和起点按题设。"
+    },
+    "wrong": [
+      {
+        "text": "10,000.00",
+        "explanation": "这是期间末差额，未折回期初。"
+      },
+      {
+        "text": "1,000,000.00",
+        "explanation": "名义额不等于差额付款。"
+      },
+      {
+        "text": "-9,661.84",
+        "explanation": "收付方向与题干相反。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "基金底层债券难卖，赎回付款日又即将到来。风险分析应怎样做？",
+    "right": {
+      "text": "区分变现与筹资付款，并检验二者反馈",
+      "explanation": "流动性有市场和融资两侧，急售可传导成资本损失。"
+    },
+    "wrong": [
+      {
+        "text": "净值为正就不必留现金",
+        "explanation": "付款日期可能先到。"
+      },
+      {
+        "text": "只需背VaR数值",
+        "explanation": "VaR不包办现金流。"
+      },
+      {
+        "text": "市场风险已全部消失",
+        "explanation": "出售价格仍可变化。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "压力周可用现金25,000、确定收款35,000、必要付款70,000、额外追缴20,000，缺口？",
+    "right": {
+      "text": "30,000",
+      "explanation": "70000+20000−25000−35000=30000。"
+    },
+    "wrong": [
+      {
+        "text": "10,000",
+        "explanation": "漏额外追缴。"
+      },
+      {
+        "text": "90,000",
+        "explanation": "未扣现金和确定收款。"
+      },
+      {
+        "text": "0",
+        "explanation": "流入不足覆盖流出。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "修正久期3，债值100,000，收益率升75bp，小变动近似损失？",
+    "right": {
+      "text": "2,250",
+      "explanation": "损失≈100000×3×0.0075=2,250；大变动须注意近似误差。"
+    },
+    "wrong": [
+      {
+        "text": "225",
+        "explanation": "基点小数转换少一位。"
+      },
+      {
+        "text": "22,500",
+        "explanation": "基点转换多一位。"
+      },
+      {
+        "text": "赚2,250",
+        "explanation": "固定现金流下方向应下跌。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "模型两情景，概率40%回报15%，其余概率回报-5%，预期回报？",
+    "right": {
+      "text": "3.00%",
+      "explanation": "0.4×0.15+(1−0.4)×-0.05=0.0300。"
+    },
+    "wrong": [
+      {
+        "text": "5.00%",
+        "explanation": "概率不等时不能简单平均。"
+      },
+      {
+        "text": "15.00%",
+        "explanation": "只计好情景。"
+      },
+      {
+        "text": "必每年实现这一数值",
+        "explanation": "预期不等于承诺或单次结果。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "两资产各半，波动率相同但相关性由0升至1。其他条件不变，组合波动通常怎样？",
+    "right": {
+      "text": "上升",
+      "explanation": "组合方差含2w1w2σ1σ2ρ，固定非负权重及波动率时随ρ增加而增加。"
+    },
+    "wrong": [
+      {
+        "text": "下降",
+        "explanation": "相关性提高在此条件下增加方差。"
+      },
+      {
+        "text": "固定等于零",
+        "explanation": "只有特殊完全抵销条件才可能零。"
+      },
+      {
+        "text": "相关系数等于一起涨的概率",
+        "explanation": "相关系数不是概率。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "模型给出1日95%VaR为80,000。以下陈述何者正确？",
+    "right": {
+      "text": "须检查尾部损失、模型和流动性，阈值不是最大损失",
+      "explanation": "VaR用分位阈值压缩风险，不提供全部尾部信息。"
+    },
+    "wrong": [
+      {
+        "text": "超过阈值绝不可能",
+        "explanation": "VaR留下尾部且模型会错。"
+      },
+      {
+        "text": "可省略持有期比较数字",
+        "explanation": "持有期影响风险。"
+      },
+      {
+        "text": "不必做压力测试",
+        "explanation": "严重情景仍须检查。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "买期货对冲采购，原现货80/期货82，采购时现货90/期货87。每单位相对原采购预算残余增加成本？",
+    "right": {
+      "text": "5",
+      "explanation": "现货多付10减期货赚5=5；与基差变化一致。"
+    },
+    "wrong": [
+      {
+        "text": "10",
+        "explanation": "只算现货，漏对冲收益。"
+      },
+      {
+        "text": "−5",
+        "explanation": "方向错误；采购多付10，期货赚5，残余是增加成本5。"
+      },
+      {
+        "text": "0",
+        "explanation": "两条价格不同步，非完美对冲。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "风险报告越线后无人负责批准减仓或追缴。最直接的改进是？",
+    "right": {
+      "text": "落实独立职责、确认对账与明确升级行动",
+      "explanation": "控制设计必须能发现并处理异常。"
+    },
+    "wrong": [
+      {
+        "text": "只增加年度利润目标",
+        "explanation": "无助于直接控制失效。"
+      },
+      {
+        "text": "让原交易员自行宣布无风险",
+        "explanation": "缺独立性。"
+      },
+      {
+        "text": "删掉超限记录",
+        "explanation": "隐瞒会恶化控制。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 6,
+    "kind": "mock-b",
+    "question": "一组银行同时急售担保资产。I.个体合理去杠杆可放大系统压力；II.价格下跌可增加融资压力；III.有抵押就不可能损失。哪些判断合理？",
+    "right": {
+      "text": "仅I及II",
+      "explanation": "体系联系和反馈是宏观风险分析的关键。"
+    },
+    "wrong": [
+      {
+        "text": "仅III",
+        "explanation": "担保品价值及执行仍有风险。"
+      },
+      {
+        "text": "I、II及III",
+        "explanation": "III错误。"
+      },
+      {
+        "text": "仅I",
+        "explanation": "II也正确。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "期初现金120,000，月1付款280,000，月3才收90,000。没有其他流量时月1最高缺口？",
+    "right": {
+      "text": "160,000",
+      "explanation": "月1缺口=280000−120000=160000；安排融资要看时间峰值。"
+    },
+    "wrong": [
+      {
+        "text": "70,000",
+        "explanation": "将月3收款错误提前用于月1。"
+      },
+      {
+        "text": "280,000",
+        "explanation": "没扣已有现金。"
+      },
+      {
+        "text": "0",
+        "explanation": "现金不足按时付款。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "原股东持全部2000同类股份，新发行500股给外人，原股东不认购，发行后持股比例？",
+    "right": {
+      "text": "80%",
+      "explanation": "2000/(2000+500)=80%，同类股等权简化。"
+    },
+    "wrong": [
+      {
+        "text": "100%",
+        "explanation": "分母包含新发行股。"
+      },
+      {
+        "text": "25%",
+        "explanation": "新股数/旧股数不是旧股东持股比例。"
+      },
+      {
+        "text": "125%",
+        "explanation": "持股比例不可如此相加。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "独立项目今天投80,000，年1末收45,000、年2末收50,000，折现率12%，NPV约？",
+    "right": {
+      "text": "38.27",
+      "explanation": "45000/(1+0.12)+50000/(1+0.12)²−80000=38.27，估计现金流非保证。"
+    },
+    "wrong": [
+      {
+        "text": "15,000.00",
+        "explanation": "未处理时间价值。"
+      },
+      {
+        "text": "80,038.27",
+        "explanation": "只算流入现值没扣投入。"
+      },
+      {
+        "text": "-80,000.00",
+        "explanation": "漏未来流入。"
+      }
+    ],
+    "lesson": 1
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "基金每单位NAV=12，市场价11.4，相对NAV溢价率（负为折价）？",
+    "right": {
+      "text": "-5.00%",
+      "explanation": "11.4/12−1=-0.0500，NAV不是保证成交价。"
+    },
+    "wrong": [
+      {
+        "text": "-0.60%",
+        "explanation": "金额差未除NAV。"
+      },
+      {
+        "text": "5.00%",
+        "explanation": "折溢方向反了。"
+      },
+      {
+        "text": "0%，NAV永远等于市场价",
+        "explanation": "价格可能偏离NAV。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "期初股票70%回报-8%，债券30%回报2%，无费无中途现金流，组合回报？",
+    "right": {
+      "text": "-5.00%",
+      "explanation": "0.7×-0.08+(1−0.7)×0.02=-0.0500。"
+    },
+    "wrong": [
+      {
+        "text": "-6.00%",
+        "explanation": "未按资金权重。"
+      },
+      {
+        "text": "5.00%",
+        "explanation": "符号反了。"
+      },
+      {
+        "text": "保证大于零",
+        "explanation": "分散不保证获利。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "简化收费题：期初150,000，毛回报4.0%，费用按期初金额1.5%收，无其他项目，净期末？",
+    "right": {
+      "text": "153,750",
+      "explanation": "150000×(1+0.04−0.015)=153,750；现实费用口径按合同。"
+    },
+    "wrong": [
+      {
+        "text": "156,000",
+        "explanation": "漏管理费。"
+      },
+      {
+        "text": "147,750",
+        "explanation": "漏投资毛收益。"
+      },
+      {
+        "text": "158,250",
+        "explanation": "把费用错加为收益。"
+      }
+    ],
+    "lesson": 2
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "客户收入不稳定、没有应急资金，却想用贷款买高杠杆产品。顾问最应先做什么？",
+    "right": {
+      "text": "核对目标、财务能力、流动性、知识与风险匹配",
+      "explanation": "实际事实和产品特征应共同决定合适性。"
+    },
+    "wrong": [
+      {
+        "text": "只按客户兴奋程度决定",
+        "explanation": "意愿不能代替能力。"
+      },
+      {
+        "text": "先完成销售再补资料",
+        "explanation": "分析应在推荐前落实。"
+      },
+      {
+        "text": "把过往平均收益当保证",
+        "explanation": "未来和期限不确定。"
+      }
+    ],
+    "lesson": 3
+  },
+  {
+    "chapter": 7,
+    "kind": "mock-b",
+    "question": "顾问推荐可给其较高佣金但与客户期限不符的产品。以下哪项合理？",
+    "right": {
+      "text": "识别并处理冲突，落实客户目标与独立判断",
+      "explanation": "服务对象及职责不同，不能以融资或销售成功替代适配判断。"
+    },
+    "wrong": [
+      {
+        "text": "披露一次即可免除全部义务",
+        "explanation": "实质要求仍适用。"
+      },
+      {
+        "text": "集团收入最高等于客户最有利",
+        "explanation": "利益可能不一致。"
+      },
+      {
+        "text": "无需解释费用和风险",
+        "explanation": "这些正影响决定。"
+      }
+    ],
+    "lesson": 3
+  }
+]
